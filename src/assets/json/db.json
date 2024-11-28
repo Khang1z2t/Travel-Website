@@ -1,0 +1,1177 @@
+{
+  "blogs": [
+    {
+      "id": "0",
+      "title": "Khám phá Nhật Bản qua hương vị",
+      "description": "Khám phá Nhật Bản qua hương vị",
+      "image": "blog/slide_1.jpg",
+      "category": "Ẩm thực",
+      "tags": [
+        "Ẩm thực",
+        "Hương vị",
+        "Nhật Bản"
+      ],
+      "type": [
+        "slides",
+        "blogShare"
+      ],
+      "details": {
+        "title": "Khám phá Nhật Bản qua hương vị",
+        "image": "blog/slide_1.jpg",
+        "author": "VietNam JNTO",
+        "date": "23-04-2024",
+        "description": [],
+        "contents": [
+          {
+            "type": "text",
+            "data": [
+              "Cùng với sushi, tempura và ramen, washoku (ẩm thực Nhật Bản) rất được yêu thích và làm say lòng những người đam mê ẩm thực trên khắp thế giới. Tuy nhiên, chỉ có ở Nhật Bản bạn mới thực sự cảm nhận được sự đa dạng tuyệt vời của washoku và sự đóng góp thiết yếu của văn hóa ẩm thực này vào bản sắc của đảo quốc.",
+              "Vào năm 2013, washoku được UNESCO công nhận là Di sản Văn hóa Phi vật thể. Xét về nghĩa của từ, \"wa\" (hòa) là từ dùng để chỉ những gì thuộc về Nhật Bản, còn \"shoku\" (thực) nghĩa là ăn hoặc đồ ăn. Khi kết hợp lại là washoku, mang nghĩa là những món ăn đậm đà, đa dạng, và thu hút bởi sự tươi ngon của nguyên liệu. Nước dùng dashi đượm vị umami là \"hương vị thứ 5\" giúp cho ẩm thực Nhật Bản trở nên dễ nhận biết, cùng với các kỹ thuật lên men tinh tế để tạo ra các nguyên liệu tuyệt vời như nước tương và miso.",
+              "Một trong những đặc điểm chính của washoku là sự tôn trọng hương vị vốn có của nguyên liệu, đảm bảo thể hiện được vị ngọt tự nhiên của cà chua hoặc vị đậm đà của khoai tây mà không cần nêm nếm thêm gia vị làm ảnh hưởng đến sự hài hòa của món ăn. Sự tôn trọng sâu sắc của người Nhật đối với thiên nhiên được thể hiện rõ ràng qua việc chú trọng vào chất lượng của nguyên liệu trong bữa ăn, qua đó cũng làm tôn vinh sự trù phú của đất nước.",
+              "Nước dùng dashi chính là linh hồn tạo nên hương vị tinh tế và không thể nhầm lẫn cho washoku. Theo truyền thống, dashi được làm bằng cách ninh trong nước các nguyên liệu giàu vị umami, như tảo bẹ khô kombu hoặc cá bào khô katsuobushi (được làm từ cá ngừ vằn hun khói và lên men). Nước dùng trong, mang hương thơm hấp dẫn nhưng vẫn giữ được độ thanh đạm và tốt cho sức khỏe. Suốt nhiều thế kỷ, vị umami trong nước dùng dashi đã trở thành bí quyết tạo nên những món ăn ngon miệng, thỏa mãn vị giác mà không cần dùng đến đường hoặc chất béo - những thứ từng được xem là xa xỉ phẩm mà hầu hết mọi người không thể mua được thường xuyên trong quá khứ."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/blog2-01_bb16ro.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Quá trình lên men là một yếu tố quan trọng khác của washoku, vì Nhật Bản là nơi có khí hậu lý tưởng cho sự phát triển của các lợi khuẩn cần thiết cho quá trình này. Điều này đã dẫn đến sự phát triển phong phú các truyền thống và kỹ thuật lên men trên khắp đất nước, từ đồ chua đến các gia vị thiết yếu như miso, nước tương, rượu sake và mirin (rượu gạo ngọt).",
+              "Súp miso, món ăn thường đi kèm với các bữa ăn kiểu Nhật, có lẽ là một trong những ví dụ nổi tiếng nhất về vai trò của việc lên men trong ẩm thực Nhật Bản. Miso là một loại sốt giàu đạm và axit amin được làm bằng cách lên men đậu nành hấp chín, muối và gạo với bào tử koji. Sản xuất miso theo phương thức truyền thống mất một năm hoặc hơn, tuân theo chu kỳ của các mùa để hỗ trợ quá trình lên men. Quy trình cẩn thận này tạo ra loại gia vị phức hợp, giàu vị umami, vừa tốt cho sức khỏe vừa có hương vị đậm đà.",
+              "Tình yêu đối với ẩm thực theo mùa của người Nhật thể hiện từ trong cả những món ăn hằng ngày như teishoku (cơm theo set) hay một bát mì nóng hổi, cho đến những bữa ăn kaiseki-ryori sang trọng được phục vụ trong các cuộc gặp mặt trà đạo, thường được biết đến là tinh hoa ẩm thực washoku.",
+              "Ban đầu kaiseki-ryori chỉ đơn thuần là một bữa ăn nhẹ gồm một món canh và ba món phụ, nhưng sau đó qua nhiều năm, các đầu bếp đã tự sáng tạo và cải tiến từng món ăn của họ trở thành một bữa ăn trang nhã với một loạt các tác phẩm nghệ thuật, từng món ăn sẽ được bày trí đẹp mắt trên những chiếc đĩa theo mùa và được phục vụ theo một thứ tự cụ thể. Để có thể thưởng thức tinh hoa ẩm thực Nhật Bản cao cấp này, bạn có thể ghé thăm một số nhà hàng truyền thống ryotei, nơi hội tụ đầy đủ các yếu tố  từ dịch vụ chu đáo đến không gian tinh tế và đặc biệt là cách bày trí món ăn vô cùng đặc sắc mà chắc chắn sẽ khiến cho bạn mê mẩn.",
+              "Một trong những địa điểm lý tưởng nhất để thưởng thức ẩm thực kaiseki-ryori tinh tế là tỉnh Kyoto. Nhà hàng Hyotei nằm gần chùa Nanzen-ji, là một trong số nhiều nhà hàng lâu đời ở đây. Họ đã chào đón khách hàng trong suốt hơn 400 năm qua, với cam kết làm hài lòng những thực khách sành điệu - những người đã góp phần tạo nên chất lượng cho nhà hàng kể từ thời samurai. Mỗi món ăn ở đây đều được chế biến cẩn thận, làm thỏa mãn mọi giác quan, góp phần tạo nên một bản giao hưởng hài hòa của hương vị và kết cấu diễn ra trong suốt bữa ăn."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/blog2-02_e1wlfp.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Những đầu bếp theo đuổi lý tưởng ẩm thực không bao giờ ngủ quên trên chiến thắng của mình. Nhật Bản nổi tiếng với khả năng tiếp thu những ý tưởng mới và biến chúng thành những điều độc đáo. Washoku cũng là minh chứng cho cách tiếp cận này, và thành công của nó được thể hiện qua sự xuất hiện của nhiều nhà hàng được gắn sao Michelin trên khắp cả nước.",
+              "Nhà hàng L'evo ở tỉnh Toyama là một ví dụ tuyệt vời. Dựa trên sự hiểu biết sâu sắc về các truyền thống của ẩm thực và thậm chí tự mình đi tìm kiếm nguyên liệu trong rừng, đầu bếp Taniguchi biến các nguyên liệu địa phương thành những món ăn mang hương vị tuyệt vời. Ông cũng là người tiên phong trong việc thể hiện rõ nét đặc trưng của địa phương qua từng món ăn, từ việc sử dụng chất liệu vải để làm thực đơn đến các dụng cụ ăn uống bằng gốm sứ do các nghệ nhân ở tỉnh Toyama tạo ra."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/blog2-03_lx5tav.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Khi ở Nhật, chắc chắn bạn sẽ học được rằng rượu sake làm tăng thêm hương vị món ăn và niềm vui trong việc thưởng thức đồ ăn như thế nào. Với sự đa dạng trong các kỹ thuật sản xuất và sự lựa chọn kỹ lưỡng các loại gạo, nước và cả men của mỗi nhà máy rượu, tất cả góp phần tạo ra vô số lựa chọn tuyệt vời cho các loại rượu sake trên khắp Nhật Bản. Không những thế, nhiều thế hệ nhà sản xuất đã mài giũa nghệ thuật chế biến để tạo ra một loại rượu có thể kết hợp với nhiều món ăn và phong cách ẩm thực khác nhau, giống cách người ta làm với rượu vang. Bằng cách kết hợp những kiến thức truyền thống và công nghệ tiên tiến, họ đã tạo ra nhiều phiên bản rượu khác nhau mang hương vị tinh tế và thơm ngon của một loại đồ uống với các nguyên liệu hoàn toàn tự nhiên chủ yếu là gạo và nước.",
+              "Rượu sake kết hợp hoàn hảo với các món ăn lên men có vị umami của ẩm thực Nhật Bản. Có khoảng 1500 nhà máy sản xuất rượu nằm rải rác trên khắp nước Nhật, và bất cứ nơi nào bạn đi, bạn sẽ tìm thấy các loại rượu mang lại phong vị của chính địa phương đó. Ví dụ tại tỉnh Fukui, có nhà máy rượu Kokuryu - một nhà máy sản xuất có lịch sử trải dài 2 thế kỷ, chuyên sản xuất rượu sake số lượng giới hạn được làm từ loại gạo ngon nhất và sử dụng nguồn nước tinh khiết từ ngọn núi Hakusan."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/blog2-04_nd1puf.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Bạn có thể dành cả đời để khám phá nền ẩm thực phong phú của Nhật Bản và bắt gặp những sự đổi mới ấn tượng đến khó quên dựa trên những điều cơ bản trong các món ăn Nhật (hay còn được gọi là Washoku). Sẽ có rất nhiều điều để khám phá và tất nhiên cũng rất nhiều món ngon đang chờ đợi bạn thưởng thức đấy."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "title": "Lịch trình 5 ngày khám phá Hiroshima - Kansai",
+      "description": "description",
+      "image": "blog/slide_2.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Hiroshima",
+        "Kansai",
+        "Lịch trình"
+      ],
+      "type": [
+        "slides",
+        "blogShare"
+      ],
+      "details": {
+        "title": "Lịch trình 5 ngày khám phá Hiroshima - Kansai",
+        "image": "blog/ngang_1200x628_cover_content_l6mz6q.jpg",
+        "author": "VietNam JNTO",
+        "date": "08-04-2024",
+        "description": [
+          "Theo thông tin mới nhất của hãng hàng không Vietjet thì từ tháng 05/2024, hãng sẽ mở đường bay trực tiếp Hà Nội - Hiroshima, khiến cho việc khám phá vùng Chugoku của Nhật Bản trở nên dễ dàng hơn bao giờ hết. Nhân dịp này JNTO sẽ gợi ý cho các bạn một lịch trình thú vị khám phá tuyến đường Hiroshima - Kansai, nơi sẽ mang đến những trải nghiệm độc đáo từ di sản lịch sử đến vẻ đẹp thiên nhiên ấn tượng, cùng với sự đa dạng và hấp dẫn của ẩm thực đặc trưng từ mỗi vùng đất mà bạn sẽ đi qua.",
+          "Đồng hành cùng chuyến đi lần này chắc chắn không thể thiếu JR Pass Kansai - Hiroshima.  Đây là loại vé tàu đặc biệt cho phép du khách tự do di chuyển trên hệ thống đường sắt tại các tỉnh Hyogo, Kyoto, Nara, Osaka, Shiga, Wakayama và Hiroshima trong khoảng thời gian 5 ngày với giá vé 17.000 yên (khoảng 3.400.000VNĐ). Với vé này, bạn có thể dễ dàng khám phá các địa danh nổi tiếng của tỉnh Hiroshima và các tỉnh vùng Kansai mà không cần phải lo lắng về chi phí di chuyển.",
+          "Giá vé JR Pass có thể thay đổi theo từng thời kỳ. Vui lòng kiểm tra thông tin trên website chính thức.",
+          "Hãy cùng JNTO lên lịch trình khám phá Hiroshima - Kansai 5 ngày giúp du khách khám phá trọn vẹn vùng đất này nhé."
+        ],
+        "contents": [
+          {
+            "type": "text",
+            "data": [
+              "<h2>Ngày 1: Từ sân bay quốc tế Nội Bài Hà Nội đến tỉnh Hiroshima</h2>",
+              "Điểm đến đầu tiên của chúng ta là tỉnh Hiroshima, nằm ở phía Tây Nam đảo Honshu. Hiroshima từng là một trong hai tỉnh của Nhật Bản chịu thiệt hại nặng nề từ vụ ném bom nguyên tử trong Chiến tranh thế giới thứ hai, cùng với tỉnh Nagasaki. Hiện nay, Hiroshima đã phát triển thành một thành phố hiện đại và yên bình, đồng thời trở thành biểu tượng cho hòa bình thế giới. Với cảnh quan thiên nhiên tươi đẹp và văn hóa đa dạng, tỉnh Hiroshima thu hút du khách bằng những điểm du lịch hấp dẫn, ẩm thực phong phú và các lễ hội truyền thống đặc sắc.",
+              "Từ sân bay quốc tế Nội Bài (Hà Nội), du khách có thể đáp <strong>chuyến bay thẳng đến sân bay quốc tế Hiroshima bằng hãng hàng không Vietjet</strong>. Ngay khi đến sân bay, du khách sử dụng xe buýt đưa đón (giá vé 400 yên ~ khoảng 80.000VNĐ/một chiều) để di chuyển tới ga  Shiraichi - ga gần sân bay nhất. Tại đây, bạn hãy tiếp tục đón tàu để đi thẳng về ga  Hiroshima - nơi có thể đổi vé JR Pass để bắt đầu hành trình khám phá Nhật Bản của mình.",
+              "<h3>Đền thờ Thần đạo Itsukushima</h3>",
+              "Được xây dựng từ năm 593, đền thờ Thần đạo Itsukushima tọa lạc tại hòn đảo Miyajima của tỉnh Hiroshima, là một công trình kiến trúc lịch sử nổi tiếng của Nhật Bản. Tên gọi \"Itsukushima\" có nghĩa là \"Hòn đảo thờ cúng\", và từ xa xưa, chính hòn đảo này đã được thờ phụng như một vị thần. Năm 1996, đền Itsukushima được UNESCO ghi danh là Di sản Văn hóa Thế giới nhờ giá trị kiến trúc, văn hóa và lịch sử đặc biệt."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/den-tho-than-dao-itsukushima-01_hwgl5o.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Điều đặc biệt của đền chính là sàn gỗ bằng phẳng màu đỏ rực rỡ, được xây dựng trên mặt biển. Điều này tạo ra một hình ảnh tuyệt đẹp và độc nhất vô nhị. Hiện tại, khu vực sảnh sân khấu Koubudai ở phía trước đền chính, nơi diễn ra các buổi lễ long trọng của đền, đang được đóng cửa để sửa chữa đến cuối tháng 12/2025."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/den-tho-than-dao-itsukushima-02_vjtrir.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Điểm nổi bật nhất của đền là cổng Torii màu đỏ son khổng lồ cao khoảng 16 mét và nặng 60 tấn; đứng sừng sững giữa biển khơi tạo nên cảnh quan vô cùng ấn tượng, đặc biệt khi thủy triều lên và xuống đứng sừng sững giữa biển. Du khách có thể ngắm nhìn cổng Torii từ xa hoặc đi bộ qua nó trong thời gian thủy triều thấp, tạo nên một trải nghiệm đáng nhớ.",
+              "Mùa xuân là thời điểm lý tưởng để tham quan khi hoa anh đào nở rộ, tạo nên khung cảnh lãng mạn. Du khách cũng có cơ hội trải nghiệm văn hóa truyền thống Nhật Bản qua các buổi biểu diễn nghệ thuật như Bugaku và Noh.",
+              "<h3>Công viên Tưởng niệm Hòa bình Hiroshima</h3>",
+              "Nằm ở trung tâm thành phố Hiroshima, công viên Tưởng niệm Hòa bình là một điểm đến không thể bỏ qua khi du khách muốn khám phá lịch sử của thành phố này. Được thành lập để tưởng nhớ những nạn nhân của vụ tấn công bằng bom nguyên tử vào năm 1945, ngày nay nó trở thành biểu tượng của sự hòa bình và hy vọng cho tương lai."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/den-tho-than-dao-itsukushima-02_vjtrir.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Bên trong khuôn viên nổi bật với \"Mái vòm bom nguyên tử\", là công trình kiến ​​trúc duy nhất còn lại sau khi quả bom nguyên tử phát nổ. Ngoài ra, còn có các công trình khác như đài tưởng niệm hòa bình và bảo tàng lịch sử, giúp tôn vinh những người đã khuất và lan tỏa thông điệp về hòa bình."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/cong-vien-tuong-niem-hoa-binh-hiroshima-2_sj9fyy.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Được UNESCO công nhận là Di sản Thế giới từ năm 1996, tòa nhà “Mái vòm bom nguyên tử” đã trở thành một biểu tượng với ý nghĩa lịch sử và văn hóa to lớn, mang đến cho thế giới thông điệp quan trọng về hòa bình.",
+              "<h3>Chùa Senko-ji</h3>",
+              "Chùa Senko-ji tọa lạc ở độ cao 140 mét trên núi Daiho tại thành phố Onomichi, được truyền tụng là ngôi chùa Phật giáo do vị sư nổi tiếng Kobo Daishi (Hoằng Pháp đại sư) sáng lập vào năm 806. Nơi này đã từ lâu trở thành điểm đến linh thiêng cho du khách gần xa."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/cong-vien-tuong-niem-hoa-binh-hiroshima-2_sj9fyy.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "10 cách để trải nghiệm khu vực quanh núi Phú Sĩ",
+      "description": "description",
+      "image": "blog/slide_3.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Núi Phú Sĩ",
+        "Trải nghiệm",
+        "Khu vực"
+      ],
+      "type": [
+        "slides"
+      ],
+      "details": {
+        "title": "10 cách để trải nghiệm khu vực quanh núi Phú Sĩ",
+        "image": "blog/slide_3.jpg",
+        "author": "VietNam JNTO",
+        "date": "08-12-2024",
+        "description": [
+          "Bất cứ ai yêu mến Nhật Bản đều sẽ biết đến núi Phú Sĩ, một biểu tượng của đất nước mặt trời mọc. Với chiều cao 3776 mét so với mực nước biển, núi Phú Sĩ là ngọn núi cao thứ 2 ở châu Á và cao thứ 7 trên toàn thế giới. Đặc biệt, vào năm 2013, UNESCO đã xếp núi Phú Sĩ vào một trong những Di sản thế giới, giúp tăng thêm vị thế cho nơi đây.",
+          "Không chỉ là một biểu tượng về mặt văn hóa, núi Phú Sĩ còn là một điểm đến ưa thích của du khách trong và ngoài nước vì ngọn núi này chỉ cách thành phố Tokyo tầm 100km, khoảng 1 tiếng đi tàu cao tốc shinkansen hoặc 2 tiếng 15 phút đi JR bus. Vậy nên, nơi đây luôn là địa điểm lý tưởng của du khách khi đến thăm khu vực Tokyo hoặc Kanto, Nhật Bản. ",
+          "Tất nhiên, leo núi là lựa chọn tuyệt vời nhất để tận hưởng vẻ đẹp núi Phú Sĩ. Tuy nhiên, khu vực xung quanh ngọn núi này cũng còn rất nhiều hoạt động khác cho du khách khám phá . Hãy cùng JNTO tìm hiểu những trải nghiệm thú vị quanh khu vực núi Phú Sĩ nhé!"
+        ],
+        "contents": [
+          {
+            "type": "text",
+            "data": [
+              "<h2>1. Leo núi Phú Sĩ</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_30237396_m_bdxzqk.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Mùa leo núi Phú Sĩ thông thường sẽ bắt đầu từ đầu tháng 7 tới giữa tháng 9, tùy vào thời tiết hàng năm. Với những tháng khác, do thời tiết thường xấu dễ gây nguy hiểm cho người leo núi nên núi Phú Sĩ sẽ đóng cửa.",
+              "Núi Phú Sĩ có tổng cộng 4 cung đường leo núi: Yoshida, Subashiri, Gotemba, và Fujinomiya, mỗi cung đường có 10 trạm nghỉ. Trong đó, Yoshida là cung đường được nhiều người lựa chọn nhất do dễ đi và cũng nhiều trạm nghỉ với các tiện ích như toilet trả phí, đồ ăn, nước, đồ leo núi, và bình oxy. Cung đường Yoshida bắt đầu mở cửa từ khoảng 01/07 tới 10/09, còn 3 cung đường kia sẽ nhận khách từ khoảng 10/07 tới 10/09.",
+              "Thời gian leo núi sẽ tùy theo từng cung đường, nhưng trung bình bạn sẽ cần 1-2 ngày để hoàn thành hành trình (cả leo lên và xuống). Hầu hết các nhà leo núi đều khuyên bạn chỉ nên leo tới trạm 7 hoặc 8 và ngủ lại ở đấy vào ngày đầu tiên trước khi tiếp tục leo vào ngày hôm sau. Như vậy, cơ thể bạn sẽ có thời gian để thích nghi với độ cao và mật độ không khí ở trên cao.",
+              "Bên cạnh đó, bạn cũng nên rèn luyện thể lực, đặc biệt là ở chân, trước khi leo. Đồ giữ nhiệt, giày leo núi, đồ ăn, nước uống (ít nhất 2 lít), và tiền mặt là những vật dụng không thể thiếu trong hành lý. Ngoài ra, bạn cũng có thể mang theo áo mưa, đèn pin đeo trên trán, và gậy leo núi để hỗ trợ hành trình được dễ dàng hơn.",
+              "Tuy bên trên có đề cập mỗi cung đường leo núi gồm 10 trạm nghỉ, nhưng bạn không cần phải leo đủ 10 trạm này đâu! Hiện tại đã có các dịch vụ tàu/xe đưa bạn lên thẳng trạm số 5, tức rút ngắn quãng đường khá nhiều. Nổi tiếng nhất chắc chắn là trạm nghỉ Fuji Subaru số 5 của cung đường Yoshida. Các nhà leo núi có thể mua thêm các vật dụng cần thiết, như gậy leo núi, thức ăn nhẹ, bình oxy,... ở đây trước khi bắt đầu chuyến hành trình. Nơi đây cũng có bãi gửi xe, tủ đựng đồ, nhà hàng, và các cửa tiệm khác.",
+              "Ngay cả khi bạn không định leo lên thêm thì trạm Fuji Subaru này cũng là một điểm đến nên ghé thăm khi đến với núi Phú Sĩ đấy. Tọa lạc ở độ cao 2300 mét so với mực nước biển nên từ trạm Fuji Subaru, bạn có thể ngắm nhìn toàn cảnh khung cảnh Ngũ Hồ xung quanh núi Phú Sĩ."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/bai-dian_ephlkk.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Mặc dù hiện nay nhiều nhà leo núi sẽ bắt đầu leo từ trạm số 5 nhưng vẫn có khá nhiều người ghé qua đền Fujiyoshida Sengen ở dưới chân núi Phú Sĩ phía Bắc trước khi leo để cầu an toàn cho chuyến đi. Đây là ngôi đền thờ công chúa Konohanasakuya, hay còn gọi là thần Asama no Okami. Ngôi đền này từng là điểm khởi hành cho những ai muốn chinh phục núi Phú Sĩ ngày trước.",
+              "<h2>2. Tham quan Ngũ Hồ (Tỉnh Yamanashi)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/yamanashi.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Ngũ Hồ là tên gọi cho năm hồ nước nổi tiếng ở chân núi Phú Sĩ. Năm hồ này bao gồm: hồ Kawaguchi, hồ Yamanaka, hồ Sai, hồ Motosu, và hồ Shoji. Cả năm hồ đều được hình thành do núi lửa Phú Sĩ hoạt động mà tạo ra. Ngũ Hồ là một phần của Công viên Quốc gia Fuji-Hakone-Izu.",
+              "Mỗi hồ đều nhìn ra núi Phú Sĩ ở cự ly gần nên bạn có thể thỏa sức tận hưởng khung cảnh tuyệt đẹp trong khi trải nghiệm những hoạt động khác như đi bộ, cắm trại, câu cá,... Xung quanh các hồ còn có các bảo tàng và khu nghỉ dưỡng suối nước nóng để bạn nghỉ ngơi và tìm hiểu thêm về Ngũ Hồ cũng như núi Phú Sĩ. Đặc biệt, mỗi mùa ở nơi đây đều có những sự kiện đặc biệt, như lễ hội hoa anh đào vào mùa xuân, lễ hội light up lá đỏ vào mùa thu, hay lễ hội pháo hoa vào mùa hè. ",
+              "Trong số năm hồ, hồ Kawaguchi và Yamanaka là hai cái tên nổi trội nhất. Hồ Kawaguchi là địa điểm thu hút nhiều khách du lịch nhất bởi đây là nơi nghỉ ngơi lý tưởng sau hành trình leo và xuống núi Phú Sĩ. Đây cũng là nơi thu hút nhiều người yêu thích môn câu cá.",
+              "Khi đến hồ Kawaguchi, bạn có thể đến bên bờ Đông để ghé thăm các điểm tham quan và khu nghỉ dưỡng suối nước nóng, nơi có tầm nhìn ra núi Phú Sĩ rất đẹp. Còn nếu bạn muốn ngắm nhìn cả núi Phú Sĩ và hồ Kawaguchi thì có thể đi lên cáp treo Kachikachi. Cáp treo dài 400 mét này sẽ đưa bạn lên đài quan sát ở độ cao 1075 mét. Vào những ngày đẹp trời, bạn còn có thể thấy cả rặng núi Alps Nam nữa đấy."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/Nagano2474_17.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Còn hồ Yamanaka là hồ lớn nhất và là hồ nằm ở nơi cao nhất trong số năm hồ. Nơi đây từng thu hút nhiều khách du lịch nhất với các điểm tham quan hấp dẫn như làng cổ Oshino Hakkai, bảo tàng Kawaguchiko music forest museum trước khi nhường lại vị trí dẫn đầu cho hồ Kawaguchi.",
+              "<h2>3. Đến thăm chùa Chureito và đền Arakura Fuji Sengen (Tỉnh Yamanashi)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_96440591_m_tfbgnl.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Nhắc tới núi Phú Sĩ, chắc hẳn ai cũng sẽ nhớ đến bức ảnh đặc trưng chụp ngọn núi này với một ngôi chùa. Đó chính là chùa 5 tầng Chureito. Nằm ở bậc thang 397, ngôi chùa là một phần của đền Arakura Fuji Sengen thuộc công viên Arakurayama Sengen nằm trên sườn núi Arakura (thành phố Fujiyoshida). Hình ảnh ngôi chùa 5 tầng bao quanh bởi hàng trăm cây hoa anh đào và núi Phú Sĩ ở phía xa là một trong những cảnh quan nổi tiếng với các du khách đến thăm Nhật Bản. ",
+              "Đền Arakura Fuji Sengen là một trong những ngôi đền lâu đời ở Nhật, với tuổi đời hơn 1300 năm. Đền vốn được tiên hoàng Suinin xây dựng vào năm 705 như là nơi cầu nguyện để núi Phú Sĩ không phun trào. Ngoài ra, đây cũng là đền thờ chính cho công chúa Konohanasakuya, hay còn được gọi là thần Asama no Okami. Người dân địa phương thường hay tới đây để cầu bình an và gia đình hòa thuận."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_44793866_m_ahcgz9.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Ngày nay, với tầm nhìn hướng thẳng ra núi Phú Sĩ, ngôi đền này trở thành một điểm đến phổ biến với những ai yêu mến núi Phú Sĩ. Thời điểm đẹp nhất để tới đây là vào tháng 4, khi hơn 500 cây anh đào xung quanh đền bung nở, hoặc tháng 11, khi lá phong chuyển sang màu đỏ. Ngoài ra, bạn cũng có thể nán lại ở ngôi đền này lâu hơn một chút để ngắm nhìn khung cảnh thành phố Fujiyoshida lấp lánh ánh đèn vào buổi tối.",
+              "<h2>4. Ghé thăm làng cổ Oshino Hakkai (Tỉnh Yamanashi)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_86920851_m_gemgfh.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Từ hồ Kawaguchi đi đến hồ Yamanaka, bạn sẽ bắt gặp ngôi làng cổ yên bình Oshino Hakkai. Nơi đây từng là một hồ nước khác trong khu vực Ngũ Hồ, nhưng theo thời gian, mực nước cạn dần, người dân cũng dần chuyển tới đây và hình thành nên ngôi làng này.",
+              "Từ “Hakkai” có nghĩa là “bát hải” (8 đại dương), ý chỉ tám hồ nước trong làng: Deguchi, Okama, Sokonashi, Choshi, Waku, Nigori, Kagami, và Shobu. Những hồ nước ở đây đều được hình thành từ nguồn nước ngầm khi tuyết tan trên núi Phú Sĩ nên có độ tinh khiết rất cao.",
+              "Chính vì vậy, người dân địa phương vô cùng coi trọng nước hồ này. Khách du lịch tới làng cổ sẽ cần trải qua một nghi lễ rửa tay với nước hồ để thanh lọc bản thân. Sau khi rửa tay xong, bạn có thể tiếp tục ngâm tay vào bể nước bên cạnh được thiết kế theo hình núi Phú Sĩ trong khoảng 1 phút để cảm nhận nguồn nước trong lành mát lạnh.",
+              "Làng Oshino Hakkai khá thoải mái với du khách; bạn có thể vào đây bất cứ lúc nào và không phải lo về phí vào cửa. Điều đầu tiên bạn cảm nhận được khi bước vào làng là bầu không khí thanh bình giữa các nếp nhà được xây dựng với kiến trúc đậm chất Nhật Bản."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/20151228_oshinohakka_2955_l_k5zfnk.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Nằm rải rác khắp làng là những cây cầu tuyệt đẹp giúp du khách dễ dàng ngắm nhìn toàn cảnh ngôi làng lẫn thưởng thức sắc xanh ngọc bích trong veo của ao hồ nơi đây. Một số hồ còn đầy ắp cá koi bơi lội bên trong. Với khung cảnh yên bình, bầu không khí trong lành, và nguồn nước tinh khiết, không khó để hiểu vì sao Oshino Hakkai được công nhận là Di tích tự nhiên vào năm 1934.",
+              "<h2>5. Dạo quanh công viên hoa Yamanakako Hananomiyako (Tỉnh Yamanashi)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_65078786_m_pyvytm.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Cạnh hồ Yamanako còn có một điểm đến khác xinh đẹp không kém làng cổ Oshino Hakkai là công viên hoa Yamanakako Hananomiyako. Công viên này nằm trên cao nguyên với độ cao hơn 1000 mét, mang tới khí hậu mát mẻ và trong lành.",
+              "Công viên Yamanakako Hananomiyako được biết đến nhiều nhất với biển hoa thay đổi theo mùa. Với diện tích khoảng 300,000 mét vuông, nơi đây có tới hàng triệu loài hoa khác nhau. Chính vì kích thước lớn như vậy nên du khách sẽ thường thuê xe đạp để có thể ngắm nhìn công viên dễ dàng hơn. Khi mệt, bạn có thể ngâm chân trong các bồn nước nóng ở công viên, vừa tranh thủ ngắm hoa lẫn núi Phú Sĩ đằng xa.",
+              "Vào mùa xuân, sẽ có khoảng 150,000 bông tulip đủ sắc màu bung nở. Muộn hơn 1 chút, từ tháng 4 tới tháng 5 là thời điểm nơi đây ngập tràn hương sắc của hàng ngàn đóa hoa shibazakura (hoa chi anh) cùng các loài hoa khác như hải quỳ, lục bình nho, đỗ quyên núi, hoa anh thảo,... Cũng chính vì vậy mà khi đó sẽ diễn ra lễ hội hoa Fuji Shibazakura, du khách khi đến đây có thể chiêm ngưỡng thảm hoa hồng rực trải dài dưới chân núi Phú Sĩ."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_54762525_m_sd05yd.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Sau đó, khi hè tới (khoảng cuối tháng 5 - đầu tháng 6), công viên Yamanakako Hananomiyako sẽ chìm trong sắc xanh da trời mát dịu của loài hoa nemophila. Và hoa hướng dương sẽ lấp đầy công viên với màu vàng rực vào tháng 8. Khi thu tới, ngoài lá phong đỏ và rẻ quạt vàng, bạn cũng sẽ được ngắm nhìn các loài hoa mùa thu như hoa cúc zinnia (cúc ngũ sắc), hoa cosmos (hoa cánh bướm),...",
+              "Ngoài ra, vào khoảng 01/12 tới 15/01, du khách tới công viên Yamanakako Hananomiyako sẽ được chiêm ngưỡng hiện tượng thiên nhiên hiếm có là “viên kim cương Phú Sĩ”. Sở dĩ gọi như vậy là vì vào những ngày này, sẽ có lúc mặt trời chạm vào đỉnh ngọn núi, tạo nên khung cảnh lóa mắt như kim cương. Hiện tượng này thường chỉ xuất hiện trong khoảng thời gian ngắn ngủi lúc mặt trời lặn, từ 15:20 tới 15:40.",
+              "<h2>6. Ghé thăm đồi chè địa phương (Tỉnh Shizuoka)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_50844349_m_gso5vu.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Nếu là người yêu thích thiên nhiên và đặc biệt là yêu thích các loại trà của Nhật Bản thì các bạn đừng bỏ lỡ những đồi chè xanh tươi ở tỉnh Shizuoka nhé. Nằm cách núi Phú Sĩ khoảng 30km, tỉnh Shizuoka là nơi có nhiều đồn điền chè nhất ở Nhật và là nơi nổi tiếng với khung cảnh đồi chè xanh tươi cùng với núi Phú Sĩ ở phía sau. ",
+              "Hai trang trại chè nổi tiếng nhất ở Shizuoka là Imamiya và Obuchi Sasaba. Cả hai trang trại này đều được bao bọc bởi những cánh rừng yên tĩnh nên bạn có thể thoải mái nhìn ngắm hay chụp ảnh núi Phú Sĩ mà không phải lo về những vật cản như đường dây điện. Chính vì vậy mà nhiều du khách lẫn các nhiếp ảnh gia rất hay đến đây để lưu lại những bức ảnh đẹp của núi Phú Sĩ, vì vậy nếu bạn muốn tránh đám đông thì hãy thức dậy thật sớm để chụp ảnh từ những đồi chè này nhé."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_50844336_m_x7u6h8.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Để có những bức hình đẹp nhất thì bạn nên đến đây vào tháng 5. Khi ấy, trên đỉnh núi Phú Sĩ vẫn còn tuyết đọng lại, còn các trang trại chưa thu hoạch nên các đồi chè vẫn còn giữ nguyên sắc xanh tươi. Ngoài ra, khi ấy sẽ còn có lễ hội chè Obuchi Sasaba, nơi các nữ sinh cấp 2 và cấp 3 trong vùng sẽ hóa trang thành những thôn nữ hái chè với những trang phục truyền thống.",
+              "<h2>7. Trải nghiệm khu vui chơi Fuji-Q Highland (Tỉnh Yamanashi)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/fuji_q_vwjpyk.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Nếu bạn thích các trò chơi cảm giác mạnh, bạn chắc chắn không nên bỏ qua khu vui chơi Fuji-Q Highland nằm ở ngay chân núi Phú Sĩ nhé! Công viên giải trí vốn nổi tiếng với các trò chơi mạo hiểm như tháp văng Tekkotsubanchou hay con lắc khổng lồ Todenmina.",
+              "Tuy nhiên, được biết đến nhiều nhất ở đây là bốn loại tàu lượn siêu tốc. Trong đó, Fujiyama được coi là vua của các tàu lượn siêu tốc bởi đây là tàu lượn cao nhất ở công viên Fuji-Q (gần 80 mét). Ngồi trên tàu lượn này, bạn hoàn toàn có thể thấy được núi Phú Sĩ khi lên đến đỉnh. Ba loại còn lại là Dodonpa - tàu lượn với gia tốc nhanh nhất thế giới (từ 0 lên 180km/h trong 1.56 giây), Takabisha - tàu lượn dốc nhất thế giới (góc rơi 121 độ), và Eejanaika - tàu lượn với ghế ngồi xoay 360 độ."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_82390905_m_xvgt1o.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Bên cạnh tàu lượn siêu tốc, nhiều người còn yêu thích ngôi nhà ma “Bệnh viện ma ám” ở đây. Đúng y như tên gọi, nhà ma này lấy bối cảnh là một bệnh viện chuyên thí nghiệm lên con người, dẫn đến các thây ma ngập tràn mọi ngóc ngách trong ngôi nhà. Du khách sẽ trải qua 50 phút ngập tràn kích thích trong nhà ma dài 900 mét này.",
+              "Tất nhiên, công viên giải trí Fuji-Q cũng có những trò chơi nhẹ nhàng phù hợp với cả gia đình. Chẳng hạn như khu phố Pháp với trò vòng quay ngựa gỗ đặc trưng cùng tháp Eiffel thu nhỏ. Hay nếu bạn muốn ngắm nhìn núi Phú Sĩ rõ ràng hơn, bạn có thể thử vòng quay khổng lồ. Vòng quay này sẽ kéo dài trong 12 phút và đưa bạn lên độ cao 50 mét. Ngoài ra, trong khuôn viên Fuji-Q còn có rất nhiều nhà hàng, khách sạn, spa, và quầy bán quà lưu niệm nữa.",
+              "<h2>8. Ghé thăm bảo tàng Kawaguchiko music forest museum (Tỉnh Yamanashi)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/bei-jing_xzquw7.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Ngay gần hồ Kawaguchi là bảo tàng Kawaguchiko music forest museum (Orgel no Mori - Khu rừng âm nhạc) với kiến trúc châu Âu cổ xưa. “Khu rừng” này bao gồm một công viên nhỏ ngoài trời và một bảo tàng về các nhạc cụ tự động.",
+              "Bước vào bảo tàng này, du khách sẽ choáng ngợp với nội thất tráng lệ bên trong. Ở sảnh chính là các hộp nhạc cổ, đàn organ tự động, và các loại nhạc cụ khác từ châu Âu. Trong đó, có một cây đàn organ Pháp được sản xuất từ năm 1905 và được mệnh danh là một trong những cây đàn organ lớn nhất thế giới. Cây đàn này chiếm gần hết diện tích ở sảnh và sẽ tự động chơi 30 phút/lần.",
+              "Ngoài ra còn cả đàn organ từng được dùng trên tàu Titanic cùng những hộp nhạc cỡ lớn. Du khách cũng sẽ có cơ hội thưởng thức các buổi hòa nhạc ở sảnh concert (concert hall) trong tòa nhà chính. Dàn nhạc thường sẽ biểu diễn ở đây vào cuối tuần hoặc ngày lễ.",
+              "Nếu bạn muốn ngắm nhìn núi Phú Sĩ thì hãy đi ra công viên bên ngoài nhé! Dọc theo con đường mòn trong công viên là các nhà hàng, cửa hàng và điểm nhấn chính ở đây là vườn hồng với khoảng 3500 bông hồng thuộc 720 loài hoa khác nhau. Vườn hồng thường sẽ nở rộ vào tháng 6, tạo nên khung cảnh lộng lẫy với khung cảnh núi Phú Sĩ ở phía xa.",
+              "<h2>9. Mua sắm tại trung tâm mua sắm Gotemba Premium Outlets (Tỉnh Shizuoka)</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/combine_6_vf0lpt.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Khi đến khu vực núi Phú Sĩ, ngoài các hoạt động ngoài trời như ghé thăm các đền chùa, làng cổ, tham quan các công viên hoa, viện bảo tàng, các bạn còn có thể trải nghiệm mua sắm thỏa thích tại đây nữa đấy. Trung tâm mua sắm Gotemba Premium Outlets chắc chắn sẽ thỏa mãn mọi đam mê mua sắm của bạn!",
+              "Premium Outlets là một trung tâm mua sắm tập trung các nhãn hiệu nổi tiếng có chi nhánh ở nhiều quốc gia và Gotemba là một trong 9 chi nhánh ở Nhật với tổng cộng khoảng 210 cửa hàng trên khắp cả nước. Giống như mọi chi nhánh khác, chi nhánh Gotemba đầy ắp các thương hiệu cao cấp về quần áo, phụ kiện, hay giày dép như Gucci, Burberry, và Balenciaga.",
+              "Tuy nhiên, nếu bạn lo lắng về giá cả, Gotemba cũng có rất nhiều các cửa hàng ở mức tầm trung khác. Chưa kể, các du khách nước ngoài còn nhận được phiếu giảm giá riêng nữa. Nơi đây cũng rất phù hợp cho kỳ nghỉ gia đình do có nhiều nhà hàng, khu vui chơi cho trẻ em, khu tắm suối nước nóng công cộng, quầy bán đồ lưu niệm hay đồ gia dụng."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/gotemba_po_7_t0zedy.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Nghe có vẻ như đây là một trung tâm thương mại đông đúc, nhưng thực chất chi nhánh Gotemba lại rất rộng rãi và thoải mái, với diện tích gần 400,000 mét vuông. Chưa kể nơi đây còn được thiết kế giống như một “thị trấn trong rừng” ở Bắc Mỹ, tạo nên nét độc đáo hiếm gặp ở Nhật Bản.",
+              "Đặc biệt, trung tâm mua sắm này chỉ đóng cửa duy nhất một ngày là ngày thứ Năm của tuần thứ ba trong tháng Hai. Ngay cả vào các ngày lễ, nơi đây vẫn sẽ mở cửa, tuy nhiên thời gian có thể sẽ thay đổi đôi chút nên các bạn hãy xem trước trên website của chi nhánh Gotemba nhé.",
+              "<h2>10. Thưởng thức ẩm thực địa phương</h2>"
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/combine_4_xzifjb.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Đã cất công đến núi Phú Sĩ mà không thưởng thức những món ăn địa phương thì thật là đáng tiếc! Trước hết, các bạn hãy đến với tỉnh Yamanashi, nơi nổi tiếng với hai món mì là Hoto udon và Yoshida udon. Hai món này đều trông khá giống mì udon, tuy nhiên cách làm đều khác hẳn đấy.",
+              "Mì Hoto được làm từ bột mì, nên người dân địa phương thường coi món này giống một dạng sủi cảo hơn. Mì Hoto không cần luộc trước mà sẽ nấu cùng với các loại rau củ theo mùa như bí ngô, khoai tây, nấm,... trong súp miso.",
+              "Còn Yoshida udon thì đúng là udon nhưng sợi mì cứng và dai hơn loại thông thường. Loại udon này thường đi kèm với nước dùng từ miso và nước tương cùng các loại topping khác nhau. Mì Yoshida niku udon ăn cùng với thịt ngựa, tanuki udon ăn với củ cải bào và bột chiên, còn nabeyaki udon đi cùng súp rau củ. Ngoài ra, còn có một loại mì khác là yumori udon để khách hàng có thể tự nêm nếm gia vị.",
+              "Tỉnh Yamanashi còn có một món đồ ngọt nức tiếng khác là shingen mochi. Shingen mochi là một loại mochi khá quen thuộc với người Nhật, thường ăn cùng với kinako (bột đậu nành) và kuromitsu (đường nâu). Và tỉnh Yamanashi chính là nơi khai sinh ra món này, nên mọi người hay đồn nhau nếu muốn ăn shingen mochi chính gốc thì phải tới Yamanashi. Ngoài ra, món bánh mizu shingen mochi (bánh mochi hình giọt nước) cũng rất nổi tiếng ở đây. Người ta tin rằng nguồn nước trong lành từ núi Phú Sĩ cũng giúp món bánh mochi này ngon hơn bình thường."
+            ]
+          },
+          {
+            "type": "image",
+            "data": "blog/pixta_4778272_m_eqddgm.jpg"
+          },
+          {
+            "type": "text",
+            "data": [
+              "Tỉnh Shizuoka cũng không kém cạnh với món Fujinomiya yakisoba. Ai cũng biết yakisoba là một món ăn đường phố nổi tiếng với mì xào cùng các nguyên liệu khác. Tuy nhiên, khác với yakisoba thông thường sẽ hấp và luộc mì trước khi xào, người dân ở Fujinomiya chỉ hấp rồi tráng mì với dầu. Cách làm này giúp mì nơi đây dai và chắc hơn mì yakisoba thông thường nhiều.",
+              "<h2>Lời kết</h2>",
+              "Núi Phú Sĩ quả là một điểm tham quan với nhiều hoạt động trải nghiệm thú vị! Dù bạn ưa thích những môn thể thao vận động mạo hiểm, các trò chơi cảm giác mạnh hay chỉ muốn ngắm nhìn cảnh thiên nhiên tươi đẹp, ghé thăm các đền chùa linh thiêng thì bạn sẽ đều yêu quý núi Phú Sĩ đấy. Hãy cùng JNTO chuẩn bị cho một chuyến khám phá vùng núi xinh đẹp này nhé! "
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "8 khu phố mua sắm (Shoutengai) nổi tiếng ở Tokyo",
+      "description": "8 khu phố mua sắm (Shoutengai) nổi tiếng ở Tokyo",
+      "image": "blog/slide_4.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "tokyo",
+        "shoutengai",
+        "mua sắm"
+      ],
+      "type": [
+        "slides",
+        "blogShare"
+      ],
+      "details": {
+        "title": "8 khu phố mua sắm (Shoutengai) nổi tiếng ở Tokyo",
+        "image": "blog/slide_4.jpg",
+        "author": "VietNam JNTO",
+        "date": "25-10-2023",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "4",
+      "title": "Lịch trình 6 ngày ngắm hoa anh đào ở vùng Tohoku",
+      "description": "Lịch trình 6 ngày ngắm hoa anh đào ở vùng Tohoku",
+      "image": "blog/slide_5.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Tohoku",
+        "Hoa Anh Đào",
+        "mua sắm"
+      ],
+      "type": [
+        "slides",
+        "blogShare"
+      ],
+      "details": {
+        "title": "Lịch trình 6 ngày ngắm hoa anh đào ở vùng Tohoku",
+        "image": "blog/slide_5.jpg",
+        "author": "VietNam JNTO",
+        "date": "01-02-2024",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "5",
+      "title": "Mùa xuân tại Nhật Bản: Dự báo lịch hoa anh đào nở năm 2024",
+      "description": "Mùa xuân tại Nhật Bản: Dự báo lịch hoa anh đào nở năm 2024",
+      "image": "blog/slide_6.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Tohoku",
+        "Hoa Anh Đào",
+        "mua sắm"
+      ],
+      "type": [
+        "slides"
+      ],
+      "details": {
+        "title": "Mùa xuân tại Nhật Bản: Dự báo lịch hoa anh đào nở năm 2024",
+        "image": "blog/slide_6.jpg",
+        "author": "VietNam JNTO",
+        "date": "01-02-2024",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "6",
+      "title": "5 trải nghiệm độc đáo tại Nhật Bản để bắt nhịp xu hướng du lịch bền vững",
+      "description": "5 trải nghiệm độc đáo tại Nhật Bản để bắt nhịp xu hướng du lịch bền vững",
+      "image": "blog/slide_7.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Tohoku",
+        "Hoa Anh Đào",
+        "mua sắm"
+      ],
+      "type": [
+        "slides"
+      ],
+      "details": {
+        "title": "5 trải nghiệm độc đáo tại Nhật Bản để bắt nhịp xu hướng du lịch bền vững",
+        "image": "blog/slide_7.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "7",
+      "title": "Du lịch bền vững ở biển nội địa Seto",
+      "description": "Du lịch bền vững ở biển nội địa Seto",
+      "image": "blog/10_seto_sunset_pahzrv.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Seto",
+        "Du lịch",
+        "mua sắm"
+      ],
+      "type": [
+        "blogShare"
+      ],
+      "details": {
+        "title": "Du lịch bền vững ở biển nội địa Seto",
+        "image": "blog/10_seto_sunset_pahzrv.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "8",
+      "title": "Lịch trình 5 ngày đi ngắm tuyết tại vùng Chubu",
+      "description": "Lịch trình 5 ngày đi ngắm tuyết tại vùng Chubu",
+      "image": "blog/dec_12_j8al7v.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Chubu",
+        "Du lịch",
+        "tuyết"
+      ],
+      "type": [
+        "blogShare"
+      ],
+      "details": {
+        "title": "Lịch trình 5 ngày đi ngắm tuyết tại vùng Chubu",
+        "image": "blog/dec_12_j8al7v.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "9",
+      "title": "5 khu ẩm thực nên ghé thăm ở thành phố Fukuoka",
+      "description": "5 khu ẩm thực nên ghé thăm ở thành phố Fukuoka",
+      "image": "blog/Osaka829_1.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Fukuoka",
+        "Du lịch",
+        "tuyết"
+      ],
+      "type": [
+        "blogShare"
+      ],
+      "details": {
+        "title": "5 khu ẩm thực nên ghé thăm ở thành phố Fukuoka",
+        "image": "blog/Osaka829_1.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "10",
+      "title": "Hành trình khám phá Osaka và Nara 3 ngày 2 đêm đầy thú vị",
+      "description": "Hành trình khám phá Osaka và Nara 3 ngày 2 đêm đầy thú vị",
+      "image": "blog/yodogawa_firework_imiu22.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Fukuoka",
+        "Du lịch",
+        "tuyết"
+      ],
+      "type": [
+        "blogShare"
+      ],
+      "details": {
+        "title": "Hành trình khám phá Osaka và Nara 3 ngày 2 đêm đầy thú vị",
+        "image": "blog/yodogawa_firework_imiu22.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "11",
+      "title": "Tổng kết Chiến dịch Kỷ niệm 50 năm Thiết lập Quan hệ Ngoại giao Nhật Bản - Việt Nam do JNTO thực hiện",
+      "description": "Tổng kết Chiến dịch Kỷ niệm 50 năm Thiết lập Quan hệ Ngoại giao Nhật Bản - Việt Nam do JNTO thực hiện",
+      "image": "blog/jnto_kv-fa_v6cytj.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Tổng kết Chiến dịch Kỷ niệm 50 năm Thiết lập Quan hệ Ngoại giao Nhật Bản - Việt Nam do JNTO thực hiện",
+        "image": "blog/jnto_kv-fa_v6cytj.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "12",
+      "title": "Trang web chiến dịch \"Khám phá Nhật Bản - Khởi nguồn đam mê\"",
+      "description": "Trang web chiến dịch \"Khám phá Nhật Bản - Khởi nguồn đam mê\"",
+      "image": "blog/tnh_7685_kf3nd2.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Trang web chiến dịch \"Khám phá Nhật Bản - Khởi nguồn đam mê\"",
+        "image": "blog/tnh_7685_kf3nd2.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "13",
+      "title": "Cùng Noo vi vu đến tuyến đường rồng bay và Hokkaido trong MV \"Around The World\"",
+      "description": "Cùng Noo vi vu đến tuyến đường rồng bay và Hokkaido trong MV \"Around The World\"",
+      "image": "blog/around_the_world_iuao1l.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Cùng Noo vi vu đến tuyến đường rồng bay và Hokkaido trong MV \"Around The World\"",
+        "image": "blog/around_the_world_iuao1l.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "14",
+      "title": "Really Love You - Noo Phức Thịnh quay MV mới tại tỉnh Ishikawa",
+      "description": "Really Love You - Noo Phức Thịnh quay MV mới tại tỉnh Ishikawa",
+      "image": "blog/really_love_you_ahkkqb.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Really Love You - Noo Phức Thịnh quay MV mới tại tỉnh Ishikawa",
+        "image": "blog/really_love_you_ahkkqb.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "15",
+      "title": "Hãy cùng tham quan Kyushu – nơi ca sĩ Noo Phước Thịnh thực hiện video “Như phút ban đầu”!",
+      "description": "Hãy cùng tham quan Kyushu – nơi ca sĩ Noo Phước Thịnh thực hiện video “Như phút ban đầu”!",
+      "image": "blog/nhu_phut_ban_daujia-gong.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Hãy cùng tham quan Kyushu – nơi ca sĩ Noo Phước Thịnh thực hiện video “Như phút ban đầu”!",
+        "image": "blog/nhu_phut_ban_daujia-gong.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "16",
+      "title": "Đông Nhi đến tỉnh Fukushima để quay clip âm nhạc \"We belong together\" (Cảm ơn)",
+      "description": "Đông Nhi đến tỉnh Fukushima để quay clip âm nhạc \"We belong together\" (Cảm ơn)",
+      "image": "blog/dongnhi-in-fukushimadj.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Đông Nhi đến tỉnh Fukushima để quay clip âm nhạc \"We belong together\" (Cảm ơn)",
+        "image": "blog/dongnhi-in-fukushimadj.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "17",
+      "title": "Theo chân Noo khám phá ẩm thực tại tuyến đường rồng bay",
+      "description": "Theo chân Noo khám phá ẩm thực tại tuyến đường rồng bay",
+      "image": "blog/matsusaka_beef_mnuo1f.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Theo chân Noo khám phá ẩm thực tại tuyến đường rồng bay",
+        "image": "blog/matsusaka_beef_mnuo1f.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "18",
+      "title": "Theo chân Noo tham gia vào hành trình khám phá ẩm thực phía đông Hokkaido",
+      "description": "Theo chân Noo tham gia vào hành trình khám phá ẩm thực phía đông Hokkaido",
+      "image": "blog/noo-in-hokkaidofood_azch.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Theo chân Noo tham gia vào hành trình khám phá ẩm thực phía đông Hokkaido",
+        "image": "blog/noo-in-hokkaidofood_azch.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "19",
+      "title": "Trúc Diễm tận hưởng chuyến du lịch trăng mật ở Hokkaido",
+      "description": "Trúc Diễm tận hưởng chuyến du lịch trăng mật ở Hokkaido",
+      "image": "blog/truc_diem_2_igiss9.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Trúc Diễm tận hưởng chuyến du lịch trăng mật ở Hokkaido",
+        "image": "blog/truc_diem_2_igiss9.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "20",
+      "title": "Theo chân Noo khám phá phong cảnh của tuyến đường rồng bay",
+      "description": "Theo chân Noo khám phá phong cảnh của tuyến đường rồng bay",
+      "image": "blog/himeji_castle_u2nlm0.jpg",
+      "category": "Du lịch",
+      "tags": [
+        "Khám phá"
+      ],
+      "type": [
+        "specialBlog"
+      ],
+      "details": {
+        "title": "Theo chân Noo khám phá phong cảnh của tuyến đường rồng bay",
+        "image": "blog/himeji_castle_u2nlm0.jpg",
+        "author": "VietNam JNTO",
+        "date": "22-11-2022",
+        "description": [],
+        "contents": []
+      }
+    },
+    {
+      "id": "destinations",
+      "title": "Những điểm đến",
+      "image": "fav/destination.jpg",
+      "link": "#!destinations",
+      "description": "Hãy xem thử bản đồ Nhật Bản của cúng tôi để biết bạn muốn đến đâu nhé!"
+    },
+    {
+      "id": "ttd",
+      "title": "Những điều nên trải nghiệm",
+      "image": "fav/ttd.jpg",
+      "link": "#!thingsToDo",
+      "description": "Khám phá hàng loạt các địa danh và hoạt động ấn tượng để tham quan và trải nghiệm trên khắp Nhật Bản"
+    },
+    {
+      "id": "plan",
+      "title": "Giúp bạn lên kế hoạch",
+      "image": "fav/plan.jpg",
+      "link": "#!plan",
+      "description": "Hãy xem thử các kế hoạch du lịch mà chúng tôi đã chuẩn bị sẵn cho bạn nhé!"
+    }
+  ],
+  "plans": [
+    {
+      "title": "Ngôn ngữ",
+      "image": "PYT-1.jpg",
+      "content": "Ngôn ngữ chính thức của Nhật Bản là tiếng Nhật, nhưng tiếng Anh thường được chấp nhận ở các thành phố lớn và các địa điểm du lịch được chỉ định.",
+      "link": "#",
+      "id": "f398"
+    },
+    {
+      "title": "Múi giờ",
+      "image": "PYT-2.jpg",
+      "content": "Toàn bộ nước Nhật nằm trong cùng một múi giờ và không thực hiện giờ tiết kiệm ánh sáng ban ngày. Đất nước này nhanh hơn chín tiếng so với giờ GMT.",
+      "link": "#",
+      "id": "c4d1"
+    },
+    {
+      "title": "Wi-Fi & Kết nối",
+      "image": "PYT-3.jpg",
+      "content": "Các điểm truy cập không dây đang phủ sóng trên khắp các thành phố lớn tại Nhật Bản, do đó bạn đừng bao giờ đi quá xa phạm vi kết nối Wi-Fi.",
+      "link": "#",
+      "id": "5bf8"
+    },
+    {
+      "title": "Phích cắm & Điện",
+      "image": "PYT-4.jpg",
+      "content": "Nhật Bản sử dụng loại phích cắm hai chạc dẹp song song. Để đảm bảo nạp điện cho các vật dụng cần thiết của bạn, hãy mua bộ chuyển đổi phích cắm trước.",
+      "link": "#",
+      "id": "fb69"
+    },
+    {
+      "title": "Tiền tệ",
+      "image": "PYT-5.jpg",
+      "content": "Đồng yên Nhật được sử dụng trên toàn quốc và bạn có thể đổi ngoại tệ tại các sân bay và hầu hết các ngân hàng lớn.",
+      "link": "#",
+      "id": "f794"
+    },
+    {
+      "title": "Mua sắm miễn thuế",
+      "image": "PYT-6.jpg",
+      "content": "Du khách đến Nhật Bản có thể được miễn thuế cho nhiều mặt hàng tiêu dùng. Quy trình nhận lại tiền thuế của bạn có thể khác nhau tùy theo từng cửa hàng.",
+      "link": "#",
+      "id": "205b"
+    },
+    {
+      "title": "Tiền boa",
+      "image": "PYT-7.jpg",
+      "content": "Ở Nhật Bản không nhận tiền boa. Trên thực tế, bạn có thể gây khó chịu và bối rối nếu làm điều này. Một khoản phí dịch vụ thường được thêm vào hóa đơn cuối cùng trong các nhà hàng.",
+      "link": "#",
+      "id": "53ff"
+    },
+    {
+      "title": "Thẻ tín dụng",
+      "image": "PYT-8.jpg",
+      "content": "Mặc dù Nhật Bản là một quốc gia chủ yếu sử dụng tiền mặt, nhưng hầu hết các cửa hàng, nhà hàng và taxi ở các thành phố lớn đều thường chấp nhận thẻ tín dụng.",
+      "link": "#",
+      "id": "618a"
+    },
+    {
+      "title": "Thời tiết (Thời điểm đi du lịch)",
+      "image": "PYT-9.jpg",
+      "content": "Thời tiết ở Nhật Bản có thể thay đổi rất nhiều tùy thuộc vào nơi bạn đang đi du lịch. Hãy tìm hiểu về thời gian tốt nhất để đến tham quan và những gì nên mang theo.",
+      "link": "#",
+      "id": "9351"
+    },
+    {
+      "title": "Thông tin visa",
+      "image": "PYT-10.jpg",
+      "content": "Vui lòng kiểm tra thông tin mới nhất trên trang web của Bộ Ngoại giao (MOFA) hoặc liên hệ với đại sứ quán/lãnh sự quán Nhật Bản tại quốc gia/khu vực bạn đang cư trú.",
+      "link": "#",
+      "id": "4f28"
+    },
+    {
+      "title": "Thuế du lịch quốc tế",
+      "image": "PYT-11.jpg",
+      "content": "Khách du lịch đến Nhật sẽ trả thuế khởi hành 1.000 yên nhằm mở rộng và nâng cao cơ sở hạ tầng du lịch của Nhật Bản - một khoản thuế nhỏ sẽ tạo nên sự khác biệt đáng kể.",
+      "link": "#",
+      "id": "c4da"
+    },
+    {
+      "title": "Đường dây nóng hỗ trợ khách du lịch Nhật Bản",
+      "image": "PYT-12.jpg",
+      "content": "Tổ chức Du lịch Quốc gia Nhật Bản (Japan National Tourism Organization - JNTO) có thiết lập đường dây nóng hỗ trợ khách du lịch 24 giờ một ngày, 365 ngày một năm.",
+      "link": "#",
+      "id": "974c"
+    },
+    {
+      "title": "Thuế quan",
+      "image": "PYT-13.jpg",
+      "content": "Trang web chính thức của Hải quan Nhật Bản là nguồn thông tin đáng tin cậy nhất để trả lời cho bất kỳ câu hỏi hoặc thắc mắc nào liên quan đến thuế quan của Nhật Bản.",
+      "link": "#",
+      "id": "0f93"
+    },
+    {
+      "title": "Thẻ du lịch IC",
+      "image": "PYT-14.jpg",
+      "content": "Mua thẻ du lịch IC có tính phí giúp cho bạn di chuyển thuận lợi trên các phương tiện giao thông công cộng.",
+      "link": "#",
+      "id": "0be5"
+    },
+    {
+      "title": "Nước uống",
+      "image": "PYT-15.jpg",
+      "content": "Mặc dù nước đóng chai có sẵn trên khắp Nhật Bản - kể cả trong vô số máy bán hàng tự động - nhưng nước máy cũng hết sức an toàn để uống.",
+      "link": "#",
+      "id": "a9bd"
+    },
+    {
+      "title": "Cất giữ & Giao hành lý",
+      "image": "PYT-16.jpg",
+      "content": "Nếu bạn không muốn mang theo hành lý bên mình, hãy để túi và vali ở các quầy dịch vụ giao hàng đặt tại sân bay.",
+      "link": "#",
+      "id": "9703"
+    },
+    {
+      "title": "Mẹo du lịch tiết kiệm",
+      "image": "PYT-17.jpg",
+      "content": "Để sử dụng tiền yên của bạn tiết kiệm nhất có thể, hãy tìm hiểu chương trình giảm giá du lịch và chỗ ở, cũng như các lựa chọn ăn uống mà sẽ không tốn quá nhiều tiền của bạn.",
+      "link": "#",
+      "id": "0a82"
+    },
+    {
+      "title": "Giữ an toàn tại Nhật Bản",
+      "image": "PYT-18.jpg",
+      "content": "Nếu bạn thấy mình rơi vào tình huống nghiêm trọng cần sự giúp đỡ, hãy quay số 110 để gọi khẩn cấp cho cảnh sát và 119 để gọi cứu hỏa hoặc cứu thương.",
+      "link": "#",
+      "id": "b4a4"
+    },
+    {
+      "title": "Đại sứ quán",
+      "image": "PYT-19.jpg",
+      "content": "Đại sứ quán của bạn ở đây có thể giúp đỡ và hỗ trợ bạn nếu bạn cần. Hãy chắc chắn rằng bạn biết cách để liên hệ với họ.",
+      "link": "#",
+      "id": "de5e"
+    },
+    {
+      "title": "Phong tục & Quy tắc ứng xử",
+      "image": "PYT-20.jpg",
+      "content": "Tuân theo những quy tắc chung thể hiện sự tôn trọng của khách du lịch đối với những người bạn gặp và những nơi bạn đến sẽ giúp ích cho bạn sau này.",
+      "link": "#",
+      "id": "a949"
+    },
+    {
+      "title": "Luật địa phương",
+      "image": "PYT-21.jpg",
+      "content": "Hãy chắc rằng bạn hiểu các luật lệ địa phương của Nhật vì thiếu hiểu biết là cách bào chữa không được chấp nhận.",
+      "link": "#",
+      "id": "9390"
+    },
+    {
+      "title": "Giờ làm việc và ngày lễ",
+      "image": "PYT-22.jpg",
+      "content": "Hãy tìm hiểu giờ làm việc của các doanh nghiệp, dịch vụ, cơ sở vật chất lớn và các ngày lễ lớn của Nhật Bản để tránh việc khách sạn đóng cửa và hết phòng.",
+      "link": "#",
+      "id": "5027"
+    },
+    {
+      "title": "Các ứng dụng hữu ích",
+      "image": "PYT-23.jpg",
+      "content": "Tải xuống một số ứng dụng chọn lọc để làm cho chuyến đi đến Nhật Bản của bạn trở nên thuận lợi hơn. Hãy lựa chọn trong danh sách các ứng dụng toàn diện, định hướng, tham quan và lưu trú.",
+      "link": "#",
+      "id": "4883"
+    },
+    {
+      "title": "Dịch vụ Bưu chính",
+      "image": "PYT-24.jpg",
+      "content": "Thay vì chỉ gửi thư điện tử, bạn hãy gửi bưu thiếp về cho bạn bè và gia đình để thông báo cho họ về chuyến phiêu lưu ở Nhật của bạn nhé.",
+      "link": "#",
+      "id": "b4c0"
+    },
+    {
+      "title": "Gọi điện thoại",
+      "image": "PYT-25.jpg",
+      "content": "Mặc dù công nghệ hiện đại cho phép bạn dễ dàng kết nối với bạn bè và gia đình trên toàn thế giới chỉ ngay trong tầm tay nhưng vẫn sẽ có lúc bạn cần dùng đến điện thoại công cộng.",
+      "link": "#",
+      "id": "ba7a"
+    },
+    {
+      "title": "Trang web đặt phòng trực tuyến",
+      "image": "PYT-26.jpg",
+      "content": "Đặt trước nơi nghỉ lại của bạn tại Nhật Bản thông qua một trong những trang web hữu ích cung cấp một loạt lựa chọn chỗ ở.",
+      "link": "#",
+      "id": "c6a2"
+    },
+    {
+      "title": "Đi du lịch với người khuyết tật",
+      "image": "PYT-27.jpg",
+      "content": "Tại các ga tàu lớn, sân bay và khách sạn cũng như ở hầu hết các trung tâm mua sắm và nhà hát mới hơn trong thành phố, khách du lịch khuyết tật hoặc người sử dụng xe lăn sẽ ít gặp khó khăn khi di chuyển từ nơi này sang nơi khác.",
+      "link": "#",
+      "id": "146b"
+    },
+    {
+      "title": "Đi du lịch với trẻ em",
+      "image": "PYT-28.jpg",
+      "content": "Việc du lịch đến Nhật Bản với trẻ em có vẻ như là một viễn cảnh khiến bạn nản lòng và tốt nhất nên tránh, tuy nhiên, Nhật Bản lại là đất nước dễ tiếp cận ngoài sức tưởng tượng.",
+      "link": "#",
+      "id": "0227"
+    },
+    {
+      "title": "Du khách người Hồi giáo",
+      "image": "PYT-29.jpg",
+      "content": "Nhật Bản tiếp tục nâng cao lòng hiếu khách đối với du khách người Hồi giáo thông qua việc đưa vào các cơ sở vật chất phù hợp với người Hồi giáo.",
+      "link": "#",
+      "id": "e1ff"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "Thống kê khách quốc tế đến Nhật Bản tháng 4 năm 2024",
+      "date": "Ngày 17 tháng 5 năm 2024 | VietNam JNTO"
+    },
+    {
+      "id": "2",
+      "title": "Notice of Proposal Competition for Joint-Promotion with Travel Agents (Only Japanese Language Available)",
+      "date": "Ngày 17 tháng 5 năm 2024 | Vietnam JNTO"
+    },
+    {
+      "id": "3",
+      "title": "「日本人向けニュースレター」2024年4月18日　訪日観光ニュースレター",
+      "date": "Ngày 25 tháng 4 năm 2024 | Vietnam JNTO"
+    },
+    {
+      "id": "4",
+      "title": "[Newsletter] Bản tin du lịch Nhật Bản tháng 4/2024",
+      "date": "Ngày 25 tháng 4 năm 2024 | Vietnam JNTO"
+    },
+    {
+      "id": "5",
+      "title": "Thống kê khách quốc tế đến Nhật Bản tháng 3 năm 2024",
+      "date": "Ngày 22 tháng 4 năm 2024 | Vietnam JNTO"
+    }
+  ],
+  "jpmaps": [
+    {
+      "id": "hokkaido",
+      "name": "Hokkaido",
+      "image": "hokkaido.jpg",
+      "description": "Phía bắc rộng lớn của Nhật Bản có mùa đông tuyết trắng, dữ dội và mùa hè trù phú – thiên đường dành cho người đam mê ẩm thực, người yêu thiên nhiên và tín đồ phiêu lưu mạo hiểm ngoài trời tìm kiếm những trải nghiệm đầy kịch tính"
+    },
+    {
+      "id": "tohoku",
+      "name": "Tohoku",
+      "image": "tohoku.jpg",
+      "description": "Với những lễ hội ma quái kì thú, bột tuyết tươi và vườn cây ăn trái rộng lớn, vùng đất Tohoku với những núi đồi trùng điệp sẽ mang đến cho bạn một cái nhìn mới về du lịch Nhật Bản."
+    },
+    {
+      "id": "kanto",
+      "name": "Kanto",
+      "image": "kanto.jpg",
+      "description": "Với những lễ hội ma quái kì thú, bột tuyết tươi và vườn cây ăn trái rộng lớn, vùng đất Tohoku với những núi đồi trùng điệp sẽ mang đến cho bạn một cái nhìn mới về du lịch Nhật Bản."
+    },
+    {
+      "id": "hokuriku",
+      "name": "Hokuriku Shinetsu",
+      "image": "hokuriku.jpg",
+      "description": "Dễ dàng thưởng ngoạn phong cảnh vùng nông thôn Nhật Bản với cảnh quan núi rừng và đường bờ biển đẹp không đâu sánh bằng, những cuộc phiêu lưu ngoài trời bất tận và đồ biển tuyệt vời."
+    },
+    {
+      "id": "tokai",
+      "name": "Tokai",
+      "image": "tokai.jpg",
+      "description": "Nơi bạn vừa có thể đến chiêm ngưỡng những điểm tham quan nổi tiếng như Núi Phú Sĩ và Takayama mà vẫn có thể thỏa sức khám phá các thành phố lớn và di sản nổi tiếng ở trung tâm Nhật Bản."
+    },
+    {
+      "id": "kansai",
+      "name": "Kansai",
+      "image": "kansai.jpg",
+      "description": "Một vùng Kansai ẩn chứa những sự tương phản, từ khung cảnh những ngọn đèn lấp lánh của Osaka đến kho tàng văn hóa của Kyoto và Nara."
+    },
+    {
+      "id": "chugoku",
+      "name": "Chugoku",
+      "image": "chugoku.jpg",
+      "description": "Chào mừng bạn đến với biên giới phía Tây ít ai khám phá của Nhật Bản, nơi có khí hậu ấm áp hơn và nhịp độ cuộc sống chậm hơn."
+    },
+    {
+      "id": "shikoku",
+      "name": "Shikoku",
+      "image": "shikoku.jpg",
+      "description": "Với các hoạt động khám phá đảo, đạp xe, đi dạo để tìm sự bình yên trong tâm hồn và nhảy múa sôi động - hòn đảo Shikoku sẽ khiến bạn chẳng thể ngồi yên."
+    },
+    {
+      "id": "kyushu",
+      "name": "Kyushu",
+      "image": "kyushu.jpg",
+      "description": "Hòn đảo Kyushu ở phía nam là quê hương của suối nước nóng, với địa hình gồ ghề, bãi biển hoang sơ và những ngọn núi lửa từ đã ngủ yên đến vẫn còn hoạt động."
+    },
+    {
+      "id": "okinawa",
+      "name": "Okinawa",
+      "image": "okinawa.jpg",
+      "description": "Hãy bay tới Okinawa và khám phá nền văn hóa biển đảo khác lạ, với ánh nắng của khí hậu cận nhiệt đới, cát trắng, san hô, rừng đước và thời đại của các vị Vua Ryukyu"
+    }
+  ],
+  "users": [
+    {
+      "id": "8b0b",
+      "username": "khang1z2t",
+      "email": "ngoc.duyen.260615@gmail.com",
+      "password": "12345",
+      "avatar": "Hanabi.jpg",
+      "fullName": "Khang Bảo",
+      "gender": "NAM",
+      "bio": "Nah I'd Win",
+      "birthday": "2004-08-29T17:00:00.000Z",
+      "country": "Viêt Nam",
+      "phone": "0865399254",
+      "website": "yunok.com",
+      "timeJoin": "2024-06-09T10:44:06.334Z"
+    },
+    {
+      "id": "539a",
+      "username": "ps36645",
+      "email": "kbao040@gmail.com",
+      "password": "12345",
+      "avatar": "user.jpg",
+      "fullName": "Bảo Khang",
+      "gender": "NAM",
+      "bio": "",
+      "birthday": "1970-01-01T00:00:00.000Z",
+      "country": "",
+      "website": "",
+      "timeJoin": "2024-06-10T05:46:08.950Z"
+    }
+  ]
+}

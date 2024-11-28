@@ -1,0 +1,132 @@
+<!-- nội dung -->
+<div class="container-fluid first mx-0">
+  <div class="row blogs-page">
+    <!-- các blogs -->
+    <article class="col-12 col-md-8">
+      <!-- blog 1 -->
+      <div
+        class="col-md-10 d-flex mx-5 mb-3 mb-md-4"
+        data-id=""
+        ng-repeat="blog in blogs | limitTo: 5 | orderBy: sort"
+      >
+        <a
+          href="#!blog/{{blog.id}}"
+          class="d-flex flex-column flex-lg-row text-black text-decoration-none w-100"
+        >
+          <img
+            src="./assets/images/{{blog.image}}"
+            alt=""
+            class="rounded my-3"
+          />
+          <div class="blogs-page-content">
+            <h3 class="px-1 px-lg-4 py-3 blog-title">{{blog.title}}</h3>
+            <p class="px-1 px-lg-4 pb-3 pt-0 m-0 blog-date">
+              {{blog.details.date | customDate}} | {{blog.details.author}}
+            </p>
+            <p class="px-1 px-lg-4 py-3">{{blog.details.description[0]}}</p>
+          </div>
+        </a>
+      </div>
+    </article>
+    <aside class="col-11 col-md-3 mx-2">
+      <!-- thanh tìm kiếm -->
+      <div class="blogs-page-aside">
+        <h3 class="py-3">Tìm kiếm</h3>
+        <form class="" role="search">
+          <div class="position-relative me-2">
+            <input
+              class="form-control"
+              type=""
+              placeholder="Từ khóa"
+              aria-label="Search"
+            />
+            <i class="fa-solid fa-magnifying-glass s-icon"></i>
+          </div>
+        </form>
+      </div>
+
+      <!-- thanh lọc -->
+      <div class="blogs-page-aside">
+        <h3 class="py-3">Lọc theo tên</h3>
+        <button class="btn btn-primary" ng-click="tang()">Tăng dần</button>
+        <button class="btn btn-primary" ng-click="giam()">Giảm dần</button>
+      </div>
+
+      <hr class="my-md-4 d-none d-md-block" />
+      <!-- category aka danh mục -->
+      <div class="blogs-page-aside">
+        <h3 class="py-1 py-md-3">Danh mục</h3>
+        <ul class="list-group">
+          <li class="list-group-item"><a href="#">Tất cả</a></li>
+          <li class="list-group-item"><a href="#">Thiên nhiên (9)</a></li>
+          <li class="list-group-item"><a href="#">Truyền thống (7)</a></li>
+          <li class="list-group-item"><a href="#">Thành phố (6)</a></li>
+          <li class="list-group-item"><a href="#">Ẩm thực (6)</a></li>
+          <li class="list-group-item"><a href="#">Lịch trình (3)</a></li>
+          <li class="list-group-item"><a href="#">Local Guides (2)</a></li>
+          <li class="list-group-item"><a href="#">Giải trí (1)</a></li>
+          <li class="list-group-item"><a href="#">Kansai (1)</a></li>
+        </ul>
+      </div>
+      <hr class="my-md-4 d-none d-md-block" />
+
+      <!-- các tags -->
+      <div class="blogs-page-aside">
+        <h3 class="py-1 py-md-3">Các thẻ</h3>
+        <div class="tags">
+          <a href="#" class="tag-item">Tất cả</a>
+          <a href="#" class="tag-item">Tokyo 7</a>
+          <a href="#" class="tag-item">Ẩm thực 6</a>
+          <a href="#" class="tag-item">Hokkaido 5</a>
+          <a href="#" class="tag-item">Mùa đông 5</a>
+          <a href="#" class="tag-item">Hoa anh đào 4</a>
+          <a href="#" class="tag-item">Hoa 4</a>
+          <a href="#" class="tag-item">Hoa 4</a>
+          <a href="#" class="tag-item">Kyoto 3</a>
+          <a href="#" class="tag-item">Kiến trức 3</a>
+          <a href="#" class="tag-item">Đền chùa 3</a>
+          <a href="#" class="tag-item">Osaka 3</a>
+          <a href="#" class="tag-item">Mua sắm 2</a>
+          <a href="#" class="tag-item">Aichi 2</a>
+          <a href="#" class="tag-item">Công viên 2</a>
+          <a href="#" class="tag-item">Núi Phú Sĩ 2</a>
+          <a href="#" class="tag-item">Bí kíp du lịch 2</a>
+          <a href="#" class="tag-item">Shinkansen 1</a>
+          <a href="#" class="tag-item">Osen 1</a>
+          <a href="#" class="tag-item">Shizuoka 1</a>
+          <a href="#" class="tag-item">Hiroshima 1</a>
+          <a href="#" class="tag-item">Ninja 1</a>
+          <a href="#" class="tag-item">Kimono 1</a>
+          <a href="#" class="tag-item">Kansai 1</a>
+          <a href="#" class="tag-item">Gifu 1</a>
+          <a href="#" class="tag-item">Nagano 1</a>
+          <a href="#" class="tag-item">Giải trí 1</a>
+          <a href="#" class="tag-item">Trải nghiệm 1</a>
+          <a href="#" class="tag-item">Tuyết 1</a>
+          <a href="#" class="tag-item">Du lịch 1</a>
+          <a href="#" class="tag-item">Khám phá 1</a>
+          <a href="#" class="tag-item">Nagoya 1</a>
+          <a href="#" class="tag-item">Phố cổ 1</a>
+          <a href="#" class="tag-item">Chubu 1</a>
+          <a href="#" class="tag-item">Suối nước nóng 1</a>
+          <a href="#" class="tag-item">Sapporo 1</a>
+          <a href="#" class="tag-item">Kyushu 1</a>
+          <a href="#" class="tag-item">Lễ hội 1</a>
+          <a href="#" class="tag-item">Lá đỏ 1</a>
+          <a href="#" class="tag-item">Văn hóa 1</a>
+          <a href="#" class="tag-item">Tohoku 1</a>
+        </div>
+      </div>
+
+      <hr class="my-md-4 d-none d-md-block" />
+      <!-- category aka Tác giả -->
+      <div class="mb-2 blogs-page-aside">
+        <h3 class="py-1 py-md-3">Tác giả</h3>
+        <ul class="list-group">
+          <li class="list-group-item"><a href="#">JNTO VietNam (52)</a></li>
+          <li class="list-group-item"><a href="#">PR (1)</a></li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+</div>

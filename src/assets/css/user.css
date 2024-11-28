@@ -1,0 +1,89 @@
+.userInfo .ui-w-100 {
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.userInfo .btn-default {
+  border-color: rgba(24, 28, 33, 0.1);
+  background: rgba(0, 0, 0, 0);
+  color: #000;
+}
+
+.userInfo label.btn {
+  margin-bottom: 0;
+}
+
+.userInfo .btn-outline-primary {
+  border-color: var(--main-color);
+  background: transparent;
+  color: var(--main-color);
+}
+
+.userInfo .btn {
+  cursor: pointer;
+}
+
+.userInfo .btn-logout {
+  background: red;
+  color: #fff;
+}
+
+.userInfo .btn-logout:hover {
+  background: #fff;
+  color: red;
+  border: 2px solid red;
+}
+
+.userInfo .text-light {
+  color: #babbbc !important;
+}
+
+.userInfo .btn-facebook {
+  border-color: rgba(0, 0, 0, 0);
+  background: #3b5998;
+  color: #fff;
+}
+
+.userInfo .btn-instagram {
+  border-color: rgba(0, 0, 0, 0);
+  background: #000;
+  color: #fff;
+}
+
+.userInfo .card {
+  background-clip: padding-box;
+  box-shadow: 0 1px 4px rgba(24, 28, 33, 0.012);
+}
+
+.userInfo .row-bordered {
+  overflow: hidden;
+}
+
+.userInfo .account-settings-fileinput {
+  position: absolute;
+  visibility: hidden;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.userInfo .list-group-item.active {
+  background-color: var(--main-color);
+}
+
+.userInfo .account-settings-links .list-group-item.active {
+  font-weight: bold !important;
+}
+
+.userInfo
+  html:not(.dark-style)
+  .account-settings-links
+  .list-group-item.active {
+  background: transparent !important;
+}
+
+.userInfo .account-settings-multiselect ~ .select2-container {
+  width: 100% !important;
+}

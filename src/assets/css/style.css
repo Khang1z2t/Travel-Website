@@ -1,0 +1,838 @@
+:root {
+  --main-color: #ff2100;
+  --hover-color: #e50012;
+  --hover-color-2: #b2000d;
+}
+
+header li {
+  list-style: none;
+  float: left;
+}
+
+nav a,
+header a,
+nav form i {
+  color: gray;
+  text-decoration: none;
+}
+
+header a:hover,
+nav form i:hover,
+nav button:hover {
+  border-color: var(--hover-color);
+  color: var(--hover-color);
+  text-decoration: none;
+}
+
+header select {
+  max-width: 200px;
+}
+
+header .form-select {
+  width: 280px;
+  max-height: 27px;
+  font-size: 11px;
+}
+
+header ul {
+  padding: 0;
+  margin: 0;
+}
+
+.header-link-icon {
+  display: inline-block;
+  border: 1px solid #000000;
+  border-radius: 50%;
+  padding: 1px;
+  min-width: 24px;
+  height: 24px;
+  justify-items: center;
+  text-align: center;
+}
+
+/* --- MENU --- */
+.navbar {
+  padding: 0;
+}
+
+.navbar-brand {
+  width: 80px;
+}
+
+nav ul {
+  font-family: "Open Sans", sans-serif;
+}
+
+nav .navbar-toggler {
+  border: white;
+}
+
+nav .s-icon,
+.blogs-page .s-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+nav .nav-item-icon {
+  display: flex;
+  border: 2px solid #000000;
+  border-radius: 50%;
+  padding: 1px;
+  min-width: 25px;
+  height: 25px;
+  align-items: center;
+  justify-content: center;
+}
+
+.dropdown-toggle::after {
+  content: none;
+}
+
+.dropdown-menu {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  padding: 0.5em;
+  border: none;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.dropdown-menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.dropdown-menu li a {
+  color: gray;
+  padding: 0.5em 0.1em;
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+/* .sub-nav-link > .dropdown-item {
+  border: none;
+} */
+
+.min-w-max-content {
+  min-width: max-content;
+}
+
+/* Slide */
+.slide-blog {
+  position: relative;
+}
+
+.slide-blog .carousel-item {
+  height: 86.4vh;
+  min-height: 300px;
+  background-size: contain;
+}
+
+.slide-blog .carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.9);
+}
+
+.slide-header {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: 1;
+}
+
+/* japan map */
+.jpmap {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.jpmap text {
+  font-size: 0.8em;
+  fill: gray;
+}
+
+.jpmap path,
+text {
+  cursor: pointer;
+}
+
+.jpmap .svgmap {
+  fill: #d7e5db;
+  stroke: #fff;
+}
+
+.jpmap text:hover {
+  fill: var(--hover-color);
+}
+
+.jpmap .svgmap:hover {
+  fill: #edb5bb;
+  transition: fill 0.5s;
+  transition: all 0.5s;
+}
+
+.jpmap .jp-info {
+  position: absolute;
+  top: 15%;
+  left: 6%;
+  z-index: 10;
+  width: 30%;
+}
+
+.jpmap .card {
+  width: 100%;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.8);
+  font-size: 1em;
+  transition: all 0.9s ease;
+}
+
+.jpmap a {
+  color: white;
+  text-decoration: none;
+}
+
+.jpmap .img-wapper {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+  overflow: hidden;
+}
+
+.jpmap .card:hover img {
+  transform: scale(1.1);
+}
+
+/* gallery ảnh ở thử mục địa danh */
+.gallery-item {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+  height: 100%;
+}
+
+.gallery-item-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gallery-item-img img {
+  width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  filter: brightness(0.9);
+  transition: transform 0.5s ease;
+}
+
+.destination .gallery-item-img {
+  width: 100%;
+  height: 150px;
+}
+
+.ttd .gallery-item-img {
+  width: 100%;
+  min-height: 140px;
+}
+
+.gallery-item:hover .gallery-item-img img {
+  transform: scale(1.1);
+}
+
+.gallery-item-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.05);
+  color: white;
+  padding: 0.1em 0.3em;
+  /* font-size: 100%; */
+  font-weight: bolder;
+}
+
+.gallary-item-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.05);
+  color: white;
+  padding: 0.1em 0.3em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.5s ease;
+  font-weight: bolder;
+  pointer-events: none;
+}
+
+/* blog & share */
+.mod-slider .card {
+  border: none;
+  margin: 0.5em;
+}
+
+.mod-slider .card a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.mod-slider .card:hover a {
+  color: var(--hover-color);
+}
+
+.mod-slider .img-wapper {
+  width: 220px;
+  height: 220px;
+  overflow: hidden;
+}
+
+.img-wapper img {
+  width: 100%;
+  height: 100%;
+  justify-items: center;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.mod-slider .carousel-item {
+  padding: 1em;
+}
+
+.mod-slider .card {
+  margin: 0 0.5em;
+  align-items: center;
+}
+
+.mod-slider .card:hover img {
+  transform: scale(1.1);
+}
+
+.mod-slider .carousel-inner {
+  display: flex;
+}
+
+.mod-slider .carousel-item {
+  display: block;
+  margin-right: 0;
+  flex: 0 0 calc(100% / 2);
+  transition: none !important;
+  transform: none !important;
+}
+
+.mod-slider-prev,
+.mod-slider-next {
+  width: 6vh;
+  height: 6vh;
+  background-color: var(--hover-color);
+  border-radius: 35%;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.5;
+}
+
+#monthChecklist .img-wapper {
+  height: 350px;
+}
+
+#monthChecklist .card-body {
+  position: absolute;
+  /* padding: 0; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#monthChecklist .card-title {
+  padding: 0.5em;
+  color: white;
+  font-weight: bold;
+  border: 1px solid white;
+  border-radius: 0.3em;
+}
+
+.explore-gallary .gallery-item {
+  width: 100%;
+  height: 100%;
+}
+.explore-gallary .gallery-item-title {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
+
+/* tông tin thêm */
+.more-info a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  text-decoration: none;
+}
+
+.more-info img {
+  width: 50%;
+  height: 110px;
+}
+
+.more-info p {
+  color: gray;
+}
+
+.more-info p,
+.more-info h5 {
+  margin: 0;
+}
+
+.more-info a:hover h5,
+.more-info a:hover p {
+  color: var(--hover-color);
+}
+
+.importance-info a {
+  height: 120%;
+  color: black;
+  font-size: larger;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.importance-info .img-fluid {
+  width: 100px;
+  overflow: hidden;
+  align-content: center;
+}
+
+.importance-info img {
+  width: 90%;
+  align-items: center;
+  transition: transform 0.5s ease;
+}
+
+.importance-info a:hover img {
+  transform: scale(1.1);
+}
+
+.importance-info a:hover {
+  color: var(--hover-color);
+}
+
+/* footer */
+footer p,
+footer a {
+  color: gray;
+  text-decoration: none;
+}
+
+footer span {
+  font-size: large;
+  color: white;
+}
+
+footer a:hover p,
+footer a:hover i {
+  color: white;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer .footer-header {
+  background-color: #333333;
+}
+
+footer .footer-body {
+  background-color: #2b2b2b;
+}
+
+footer .footer-body a p {
+  width: 100%;
+}
+
+/* new page - điểm đến */
+.first {
+  margin-top: 51px;
+}
+
+.banner {
+  position: relative;
+  width: 100%;
+  height: 86.4vh;
+
+  min-height: 300px;
+  background-size: contain;
+}
+
+.banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.9);
+}
+
+.banner .banner-content {
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  color: white;
+  padding: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.banner .banner-favorite {
+  position: absolute;
+  bottom: 10%;
+  right: 6%;
+  color: white;
+  font-size: 1.2em;
+  width: 46px;
+  height: 46px;
+  border: 3px solid white;
+  margin: 0 0.45em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background: none;
+}
+
+.blog-favorite {
+  color: black;
+  font-size: 1.2em;
+  width: 42px;
+  height: 42px;
+  border: 2px solid black;
+  margin: 0 0.45em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background: none;
+}
+
+.blog-favorite.active,
+.banner .banner-favorite.active {
+  color: var(--main-color);
+  border-color: var(--main-color);
+}
+
+.blog-favorite:hover,
+.banner .banner-favorite:hover {
+  color: var(--hover-color);
+  border-color: var(--hover-color);
+}
+
+.blog-favorite.active:hover {
+  color: black;
+  border-color: black;
+}
+
+.banner .banner-favorite.active:hover {
+  color: white;
+  border-color: white;
+}
+
+/* yêu thích */
+.favorite {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.favorite img {
+  width: 25%;
+  object-fit: cover;
+}
+
+.favorite .fav-content {
+  width: 100%;
+  padding: 1em;
+  color: black;
+}
+
+.favorite .fav-icon {
+  justify-content: flex-end;
+  color: var(--hover-color);
+  font-size: 1.2em;
+  width: 46px;
+  height: 46px;
+  border: 3px solid var(--hover-color);
+  margin: 0 0.45em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background: none;
+}
+
+.favorite .fav-icon:hover {
+  color: black;
+  border-color: black;
+}
+
+/* trải nghiệm */
+.blogs.content {
+  width: 100%;
+  height: 100%;
+}
+
+.blogs.content h2,
+.blogs.content p {
+  width: 75%;
+}
+.blogs.content p {
+  font-size: 1.2em;
+}
+
+/* button trong trang trải nghiệm */
+.blogs-btn-outline {
+  background: none;
+  padding: 0.5em 1em;
+  font-size: 0.85rem;
+}
+
+.blogs-btn-outline a {
+  min-height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  text-decoration: none;
+  margin: 0.5em 0.5em;
+  border: 1px solid var(--main-color);
+  border-radius: 0.2em;
+}
+
+.blogs-btn-outline span {
+  text-align: center;
+  font-weight: bold;
+}
+
+.blogs-btn-outline a:hover {
+  color: white;
+  background-color: var(--main-color);
+}
+
+/* mod carousel - 1 img */
+.ttd .img-wapper {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+  overflow: hidden;
+}
+
+.ttd .img-wapper:hover img {
+  transform: scale(1.1);
+}
+
+/* lên kế hoặc */
+.plans .card {
+  width: 100%;
+  /* height: 100%; */
+  border: none;
+  margin: 0.5em;
+}
+
+.plans .card img {
+  width: 40%;
+}
+
+.plans .card-body {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.plans .card-title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.plans a {
+  color: var(--main-color);
+}
+
+.plans a:hover {
+  color: var(--hover-color);
+  text-decoration: underline;
+}
+
+/* blogs */
+.blogs-page {
+  width: 100%;
+  height: 100%;
+}
+
+.blogs-page a {
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.blogs-page img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.blogs-page p {
+  font-weight: lighter;
+}
+
+.blogs-page .blogs-page-content {
+  width: 100%;
+  padding: 0.1em;
+  box-sizing: border-box;
+}
+
+.blogs-page .list-group-item {
+  background: none;
+  border: none;
+  padding: 0.15em 0;
+}
+
+.blogs-page a {
+  color: black;
+}
+
+.blogs-page a:hover {
+  color: var(--hover-color);
+}
+
+.blogs-page .tags {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.blogs-page .tag-item {
+  /* color: gray; */
+  border: 1px solid #ccc;
+  padding: 0.1em 0.5em;
+  margin: 0.2em 0.2em;
+  border-radius: 0.2em;
+  width: max-content;
+}
+
+.blogs-page-aside {
+  background-color: #eeeeee;
+  padding: 0.5em;
+  margin: 0.5em 0;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .jpmap .card {
+    font-size: 0.8em;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .blogs-btn-outline {
+    font-size: 1.1rem;
+  }
+
+  .blogs-page-aside {
+    background: none;
+  }
+}
+
+/* nếu màn hình lớn hơn 992px - lagre thì */
+@media screen and (min-width: 992px) {
+  .first {
+    margin-top: 110px;
+  }
+
+  .nav-menu.fixed-top {
+    margin-top: 35px;
+    padding: 0.5em 0;
+  }
+
+  .navbar-brand {
+    width: 100px;
+  }
+
+  .dropdown-toggle:hover {
+    border-bottom: 0.2rem solid var(--hover-color);
+  }
+
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: fixed;
+  }
+  .sub-nav {
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+  }
+
+  .sub-nav-content {
+    padding: 1em 1.5em;
+  }
+
+  .sub-nav-center {
+    text-align: center;
+  }
+
+  .sub-nav-link:hover,
+  .dropdown-item:hover {
+    color: var(--hover-color);
+  }
+
+  /* slide */
+
+  /* blog and sharing */
+  .mod-slider .carousel-item {
+    display: block;
+    margin-right: 0;
+    flex: 0 0 calc(100% / 4);
+  }
+
+  /* điểm đến */
+  .destination .gallery-item-img {
+    height: 100%;
+  }
+
+  /* blog */
+  .blogs-page img {
+    width: 45%;
+    height: 70%;
+  }
+}
+
+a,
+span,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+body {
+  font-family: "Open Sans", sans-serif;
+  /* color: black; */
+}

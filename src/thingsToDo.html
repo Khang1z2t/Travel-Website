@@ -1,0 +1,451 @@
+<!-- nội dung - Những điều nên trải nghiệm -->
+<div class="banner mb-3 mb-md-5 first" data-id="ttd">
+  <img src="./assets/images/fav/ttd.jpg" alt="" />
+  <div class="banner-content">
+    <h2>Những điều nên trải nghiệm</h2>
+    <p>
+      Khám phá hàng loạt các địa danh và hoạt động ấn tượng để tham quan và trải
+      nghiệm trên khắp Nhật Bản
+    </p>
+  </div>
+  <button
+    class="banner-favorite addFavorite"
+    aria-label="ttd"
+    ng-class="{'active': checkFavorite('ttd')}"
+    ng-click="addFavorite('ttd')"
+  >
+    <i class="fa-regular fa-heart fa-xl"></i>
+  </button>
+</div>
+
+<!-- Thông tin về trải nghiệm -->
+<div class="container m-3 m-md-5 px-md-5">
+  <div class="blogs content">
+    <h2 class="fw-bold">
+      Tìm cảm hứng cho kỳ nghỉ của bạn tại Nhật Bản, từ tham quan trong thành
+      phố và hòa mình vào nền văn hóa vùng nông thôn cho đến những lựa chọn hàng
+      đầu và hành trình đề xuất
+    </h2>
+    <p>
+      Đặt chân đến Nhật Bản với kế hoạch vui chơi giải trí. Khám phá nhiều sự
+      kiện và lễ hội, chùa chiền và lâu đài, công viên giải trí và suối nước
+      nóng, bãi biển và các hoạt động ngoài trời có tại Nhật Bản. Dù bạn là
+      người đam mê thể thao, yêu nghệ thuật, yêu thiên nhiên, thích tìm hiểu
+      lịch sử, là tín đồ ẩm thực hay chỉ đơn giản là muốn được thư giãn trên bãi
+      biển, thì những lựa chọn cho bạn trong hành trình khám phá Nhật Bản cũng
+      đều bất tận.
+    </p>
+  </div>
+</div>
+
+<!-- Khám phá Theo Sở thích -->
+<h1 class="px-5 py-2 fw-bolder">Khám phá Theo Sở thích</h1>
+<!-- content bên trg -->
+<div class="container m-3 my-md-3 px-md-5">
+  <div class="row blogs-btn-outline">
+    <a href="#" class="col-3 col-lg-2">
+      <span>Điểm tham quan Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Hoạt động & Phiêu lưu Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Nghệ thuật & Thiết kế Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Văn hóa Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Ẩm thực Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Bảo tàng Lễ hội Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Lịch sử Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Thiên nhiên Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Thư giãn Nhật Bản</span>
+    </a>
+    <a href="#" class="col-3 col-lg-2">
+      <span>Mua sắm Nhật Bản</span>
+    </a>
+  </div>
+</div>
+
+<!-- slide ver ttd -->
+<div
+  class="carousel slide mb-lg-5 mb-3 m-md-5 px-md-4 slide-blog"
+  id="blogInfo"
+  data-bs-ride="carousel"
+>
+  <!-- nút đổi slide -->
+  <div class="carousel-indicators">
+    <button
+      class="active"
+      type="button"
+      data-bs-target="#blogInfo"
+      data-bs-slide-to="0"
+      aria-current="true"
+      aria-label="Slide 1"
+    ></button
+    ><button
+      type="button"
+      data-bs-target="#blogInfo"
+      data-bs-slide-to="1"
+      aria-label="Slide 2"
+    ></button
+    ><button
+      type="button"
+      data-bs-target="#blogInfo"
+      data-bs-slide-to="2"
+      aria-label="Slide 3"
+    ></button>
+  </div>
+
+  <!-- Ảnh trong slide -->
+  <div class="carousel-inner rounded ttd">
+    <!-- slide 1 -->
+    <div class="img-fluid carousel-item active">
+      <a href="#" class="img-wapper" aria-label="Đảo Ogasawara (UNESCO)"
+        ><img
+          src="./assets/images/blog/Wh016_3062_1.jpg"
+          alt=""
+          class="d-block w-100"
+      /></a>
+      <div class="carousel-caption d-md-block fs-3 fw-bold">
+        <h2>Đảo Ogasawara (UNESCO)</h2>
+        <p>Thực hiện một chuyến đi đến Quần đảo Galapagos của Châu Á</p>
+      </div>
+    </div>
+    <!-- slide 2 -->
+    <div class="img-fluid carousel-item">
+      <a
+        href="#"
+        class="img-wapper"
+        aria-label="Đài tưởng niệm Hòa bình Hiroshima (UNESCO)"
+      >
+        <img
+          src="./assets/images/blog/M_01546_001.jpg"
+          alt=""
+          class="d-block w-100"
+      /></a>
+      <div class="carousel-caption d-md-block fs-3 fw-bold">
+        <h2>Đài tưởng niệm Hòa bình Hiroshima (UNESCO)</h2>
+        <p>Kiến trúc gợi nhớ về một quá khứ đau thương</p>
+      </div>
+    </div>
+    <!-- slide 3 -->
+    <div class="img-fluid carousel-item">
+      <a
+        href="#"
+        class="img-wapper"
+        aria-label="Chợ đồ cổ & Chợ trời ở Nhật Bản"
+        ><img
+          src="./assets/images/blog/Sg001_3068_23.jpg"
+          alt=""
+          class="d-block w-100"
+      /></a>
+      <div class="carousel-caption d-md-block fs-3 fw-bold">
+        <h2>Chợ đồ cổ & Chợ trời ở Nhật Bản</h2>
+        <p>Chợ Setagaya Boroichi - Tokyo</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- nút qua trái phải -->
+  <button
+    class="carousel-control-prev"
+    type="button"
+    data-bs-target="#blogInfo"
+    data-bs-slide="prev"
+  >
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button
+    class="carousel-control-next"
+    type="button"
+    data-bs-target="#blogInfo"
+    data-bs-slide="next"
+  >
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<!-- Những điểm nổi bật -->
+<h1 class="px-5 py-2 fw-bolder">Những điểm nổi bật</h1>
+<!-- content bên dưới -->
+<div class="container">
+  <div class="row align-items-sm-stretch">
+    <!-- Tháp Tokyo & Khu vực xung quanh -->
+    <div class="col-md-6 mb-3 order-0 order-md-0">
+      <a
+        href="#"
+        aria-label="Tháp Tokyo & Khu vực xung quanh"
+        class="gallery-item"
+      >
+        <div class="overflow-hidden rounded img-fluid gallery-item-img">
+          <img src="./assets/images/blog/Tokyo2260_1.jpg" alt="" class="" />
+        </div>
+        <span class="gallery-item-title">Tháp Tokyo & Khu vực xung quanh</span>
+      </a>
+    </div>
+
+    <!-- 4 mục con -->
+    <div class="col-md-6 order-1 order-md-1">
+      <div class="row">
+        <!-- Khu vực Phú Sĩ Ngũ Hồ -->
+        <div class="col-6 mb-3">
+          <a href="#" aria-label="Khu vực Phú Sĩ Ngũ Hồ" class="gallery-item">
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img
+                src="./assets/images/blog/Yamanashi911_1.jpg"
+                alt=""
+                class=""
+              />
+            </div>
+            <span class="gallery-item-title">Khu vực Phú Sĩ Ngũ Hồ</span>
+          </a>
+        </div>
+
+        <!-- Beppu & Yufuin -->
+        <div class="col-6 mb-3">
+          <a href="#" aria-label="Beppu & Yufuin" class="gallery-item">
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img src="./assets/images/blog/Oita1991_7.jpg" alt="" class="" />
+            </div>
+            <span class="gallery-item-title">Beppu & Yufuin</span>
+          </a>
+        </div>
+
+        <!-- Shibuya & Shimokitazawa -->
+        <div class="col-6 mb-3">
+          <a href="#" aria-label="Shibuya & Shimokitazawa" class="gallery-item">
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img src="./assets/images/blog/Tokyo2333_3.jpg" alt="" class="" />
+            </div>
+            <span class="gallery-item-title">Shibuya & Shimokitazawa</span>
+          </a>
+        </div>
+
+        <!-- Hanamaki & Khu vực xung quanh -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Hanamaki & Khu vực xung quanh"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img src="./assets/images/blog/Iwate1257_5.jpg" alt="" class="" />
+            </div>
+            <span class="gallery-item-title"
+              >Hanamaki & Khu vực xung quanh</span
+            >
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Lịch trình -->
+<h1 class="px-5 py-2 fw-bolder">Lịch trình</h1>
+<!-- content bên dưới -->
+<div class="container">
+  <div class="row align-items-sm-stretch ttd">
+    <!-- Cuộc phiêu lưu mua sắm ở trung tâm thành phố Tokyo -->
+    <div class="col-md-6 mb-3 order-0 order-md-0">
+      <a
+        href="#"
+        aria-label="Cuộc phiêu lưu mua sắm ở trung tâm thành phố Tokyo"
+        class="gallery-item"
+      >
+        <div class="overflow-hidden rounded img-fluid gallery-item-img">
+          <img src="./assets/images/blog/Tokyo2267_2.jpg" alt="" class="" />
+        </div>
+        <span class="gallery-item-title"
+          >Cuộc phiêu lưu mua sắm ở trung tâm thành phố Tokyo</span
+        >
+      </a>
+    </div>
+
+    <!-- 4 mục con -->
+    <div class="col-md-6 order-1 order-md-1">
+      <div class="row">
+        <!-- Tour tham quan suối nước nóng qua đêm ở Yamanashi -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Tour tham quan suối nước nóng qua đêm ở Yamanashi"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img
+                src="./assets/images/blog/Yamanashi_t_id7_1.jpg"
+                alt=""
+                class=""
+              />
+            </div>
+            <span class="gallery-item-title"
+              >Tour tham quan suối nước nóng qua đêm ở Yamanashi</span
+            >
+          </a>
+        </div>
+
+        <!-- Chuyến hành hương 2 ngày ở Shikoku -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Chuyến hành hương 2 ngày ở Shikoku"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img
+                src="./assets/images/blog/Tokushima_t_id3_3.jpg"
+                alt=""
+                class=""
+              />
+            </div>
+            <span class="gallery-item-title"
+              >Chuyến hành hương 2 ngày ở Shikoku</span
+            >
+          </a>
+        </div>
+
+        <!-- Đời sống tâm linh ở Vùng núi Koyasan -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Đời sống tâm linh ở Vùng núi Koyasan"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img
+                src="./assets/images/blog/Wakayama60_1.jpg"
+                alt=""
+                class=""
+              />
+            </div>
+            <span class="gallery-item-title"
+              >Đời sống tâm linh ở Vùng núi Koyasan</span
+            >
+          </a>
+        </div>
+
+        <!-- Khám phá Kobe trong 1 ngày -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Khám phá Kobe trong 1 ngày"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img src="./assets/images/blog/Hyogo747_13.jpg" alt="" class="" />
+            </div>
+            <span class="gallery-item-title">Khám phá Kobe trong 1 ngày</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4 thư mục con 2 -->
+    <div class="col-md-6 order-3 order-md-2">
+      <div class="row">
+        <!-- Khám phá các công viên chủ đề và trang trại ở Chiba -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Khám phá các công viên chủ đề và trang trại ở Chiba"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img src="./assets/images/blog/Chiba2463_4.jpg" alt="" class="" />
+            </div>
+            <span class="gallery-item-title"
+              >Khám phá các công viên chủ đề và trang trại ở Chiba</span
+            >
+          </a>
+        </div>
+
+        <!-- Khám phá tinh thần Samurai ở Aizu -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Khám phá tinh thần Samurai ở Aizu"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img
+                src="./assets/images/blog/Fukushima1730_6.jpg"
+                alt=""
+                class=""
+              />
+            </div>
+            <span class="gallery-item-title"
+              >Khám phá tinh thần Samurai ở Aizu</span
+            >
+          </a>
+        </div>
+
+        <!-- Đạp xe quanh Shimanami Kaido -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Đạp xe quanh Shimanami Kaido"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img
+                src="./assets/images/blog/Hiroshima579_4.jpg"
+                alt=""
+                class=""
+              />
+            </div>
+            <span class="gallery-item-title">Đạp xe quanh Shimanami Kaido</span>
+          </a>
+        </div>
+
+        <!-- Hành trình văn hóa của Kyushu -->
+        <div class="col-6 mb-3">
+          <a
+            href="#"
+            aria-label="Hành trình văn hóa của Kyushu"
+            class="gallery-item"
+          >
+            <div class="overflow-hidden rounded img-fluid gallery-item-img">
+              <img
+                src="./assets/images/blog/Nagasaki2047_7.jpg"
+                alt=""
+                class=""
+              />
+            </div>
+            <span class="gallery-item-title"
+              >Hành trình văn hóa của Kyushu</span
+            >
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Khám phá Fukuoka trong quá khứ và hiện tại -->
+    <div class="col-md-6 mb-3 order-2 order-md-3">
+      <a
+        href="#"
+        aria-label="Khám phá Fukuoka trong quá khứ và hiện tại"
+        class="gallery-item"
+      >
+        <div class="overflow-hidden rounded img-fluid gallery-item-img">
+          <img src="./assets/images/blog/Fukuoka1614_6.jpg" alt="" class="" />
+        </div>
+        <span class="gallery-item-title"
+          >Khám phá Fukuoka trong quá khứ và hiện tại</span
+        >
+      </a>
+    </div>
+  </div>
+</div>

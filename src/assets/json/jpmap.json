@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hokkaido",
+    "name": "Hokkaido",
+    "image": "hokkaido.jpg",
+    "description": "Phía bắc rộng lớn của Nhật Bản có mùa đông tuyết trắng, dữ dội và mùa hè trù phú – thiên đường dành cho người đam mê ẩm thực, người yêu thiên nhiên và tín đồ phiêu lưu mạo hiểm ngoài trời tìm kiếm những trải nghiệm đầy kịch tính"
+  },
+  {
+    "id": "tohoku",
+    "name": "Tohoku",
+    "image": "tohoku.jpg",
+    "description": "Với những lễ hội ma quái kì thú, bột tuyết tươi và vườn cây ăn trái rộng lớn, vùng đất Tohoku với những núi đồi trùng điệp sẽ mang đến cho bạn một cái nhìn mới về du lịch Nhật Bản."
+  },
+  {
+    "id": "kanto",
+    "name": "Kanto",
+    "image": "kanto.jpg",
+    "description": "Với những lễ hội ma quái kì thú, bột tuyết tươi và vườn cây ăn trái rộng lớn, vùng đất Tohoku với những núi đồi trùng điệp sẽ mang đến cho bạn một cái nhìn mới về du lịch Nhật Bản."
+  },
+  {
+    "id": "hokuriku",
+    "name": "Hokuriku Shinetsu",
+    "image": "hokuriku.jpg",
+    "description": "Dễ dàng thưởng ngoạn phong cảnh vùng nông thôn Nhật Bản với cảnh quan núi rừng và đường bờ biển đẹp không đâu sánh bằng, những cuộc phiêu lưu ngoài trời bất tận và đồ biển tuyệt vời."
+  },
+  {
+    "id": "tokai",
+    "name": "Tokai",
+    "image": "tokai.jpg",
+    "description": "Nơi bạn vừa có thể đến chiêm ngưỡng những điểm tham quan nổi tiếng như Núi Phú Sĩ và Takayama mà vẫn có thể thỏa sức khám phá các thành phố lớn và di sản nổi tiếng ở trung tâm Nhật Bản."
+  },
+  {
+    "id": "kansai",
+    "name": "Kansai",
+    "image": "kansai.jpg",
+    "description": "Một vùng Kansai ẩn chứa những sự tương phản, từ khung cảnh những ngọn đèn lấp lánh của Osaka đến kho tàng văn hóa của Kyoto và Nara."
+  },
+  {
+    "id": "chugoku",
+    "name": "Chugoku",
+    "image": "chugoku.jpg",
+    "description": "Chào mừng bạn đến với biên giới phía Tây ít ai khám phá của Nhật Bản, nơi có khí hậu ấm áp hơn và nhịp độ cuộc sống chậm hơn."
+  },
+  {
+    "id": "shikoku",
+    "name": "Shikoku",
+    "image": "shikoku.jpg",
+    "description": "Với các hoạt động khám phá đảo, đạp xe, đi dạo để tìm sự bình yên trong tâm hồn và nhảy múa sôi động - hòn đảo Shikoku sẽ khiến bạn chẳng thể ngồi yên."
+  },
+  {
+    "id": "kyushu",
+    "name": "Kyushu",
+    "image": "kyushu.jpg",
+    "description": "Hòn đảo Kyushu ở phía nam là quê hương của suối nước nóng, với địa hình gồ ghề, bãi biển hoang sơ và những ngọn núi lửa từ đã ngủ yên đến vẫn còn hoạt động."
+  },
+  {
+    "id": "okinawa",
+    "name": "Okinawa",
+    "image": "okinawa.jpg",
+    "description": "Hãy bay tới Okinawa và khám phá nền văn hóa biển đảo khác lạ, với ánh nắng của khí hậu cận nhiệt đới, cát trắng, san hô, rừng đước và thời đại của các vị Vua Ryukyu"
+  }
+]

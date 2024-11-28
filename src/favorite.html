@@ -1,0 +1,45 @@
+<!-- nội dung -->
+<h1 class="px-5 py-5 first">Những bài viết bạn đã yêu thích</h1>
+<!-- danh sách yêu thích -->
+<div class="container">
+  <div class="row fav-list">
+    <div
+      class="col-md-11 d-flex favorite mb-5 mb-md-5"
+      ng-repeat="fav in favorites"
+    >
+      <a
+        ng-attr-href="{{fav.link ? fav.link : '#!blog/' + fav.id}}"
+        aria-label="{{fav.id}}"
+        class="text-decoration-none d-flex"
+      >
+        <img src="./assets/images/{{fav.image}}" alt="" class="rounded" />
+
+        <div class="fav-content">
+          <h2>{{fav.title}}</h2>
+          <p>{{fav.description}}</p>
+        </div>
+      </a>
+      <button
+        class="fav-icon removeFavorite"
+        aria-label="{{fav.id}}"
+        ng-click="removeFavorite(fav.id)"
+      >
+        <i class="fa-solid fa-heart fa-xl"></i>
+      </button>
+    </div>
+    <div
+      class="col-md-11 d-flex no-fav mb-3 mb-md-5"
+      ng-if="!favorites.length || !favorites"
+    >
+      <img
+        src="./assets/images/fav/no-fav.jpg"
+        alt=""
+        width="20%"
+        class="rounded"
+      />
+      <h3 class="d-flex justify-content-center align-items-center h-100 px-5">
+        Bạn chưa có yêu thích bài viết nào hết!
+      </h3>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,60 @@
+<!-- nội dung - Giúp bạn lên kế hoạch -->
+<div class="banner mb-3 mb-md-5 first" data-id="plan">
+  <img src="./assets/images/fav/plan.jpg" alt="" />
+  <div class="banner-content">
+    <h2>Giúp bạn lên kế hoạch</h2>
+    <p></p>
+  </div>
+  <button
+    class="banner-favorite addFavorite"
+    aria-label="plan"
+    ng-class="{'active': checkFavorite('plan')}"
+    ng-click="addFavorite('plan')"
+  >
+    <i class="fa-regular fa-heart fa-xl"></i>
+  </button>
+</div>
+
+<!-- Thông tin về kế hoạch -->
+<div class="container m-3 m-md-5 px-md-5">
+  <div class="blogs content">
+    <h2 class="fw-bold">Lên kế hoạch trước cho một chuyến đi suôn sẻ</h2>
+    <p>
+      Vào lần đầu tiên đến Nhật Bản, bạn sẽ dễ cảm thấy có chút choáng ngợp và
+      mất phương hướng, vì vậy hãy tìm hiểu những điều cơ bản trước khi lên máy
+      bay và làm quen với đất nước này thông qua Cẩm nang hướng dẫn lên kế hoạch
+      của chúng tôi Hãy tìm hiểu thêm một chút về phong tục, văn hóa và kết nối
+      Wi-Fi, cũng như thời tiết theo mùa, địa lý và các tùy chọn giao hành lý ở
+      Nhật Bản nhé. Cẩm nang này cũng giải đáp nhiều thắc mắc của khách du lịch
+      lần đầu đến với Nhật Bản, cùng với những mẹo du lịch từ người có kinh
+      nghiệm và lời khuyên thiết thực để giúp bạn tự tin khám phá đất nước.
+    </p>
+    <p>
+      Hãy tìm hiểu thêm một chút về phong tục, văn hóa và kết nối Wi-Fi, cũng
+      như thời tiết theo mùa, địa lý và các tùy chọn giao hành lý ở Nhật Bản
+      nhé. Cẩm nang này cũng giải đáp nhiều thắc mắc của khách du lịch lần đầu
+      đến với Nhật Bản, cùng với những mẹo du lịch từ người có kinh nghiệm và
+      lời khuyên thiết thực để giúp bạn tự tin khám phá đất nước.
+    </p>
+  </div>
+</div>
+
+<!-- các nội dung -->
+<div class="row mx-5 plans" id="plans">
+  <hr />
+  <div class="col-md-6 py-2 px-2 px-md-5" ng-repeat="plan in plans">
+    <div class="card d-flex flex-row">
+      <img
+        src="./assets/images/plans/{{plan.image}}"
+        class="card-img"
+        alt="..."
+      />
+      <div class="card-body">
+        <h5 class="card-title">{{plan.title}}</h5>
+        <p class="card-text">{{plan.content}}</p>
+        <a href="{{plan.link}}" class="btn plan-link">Tìm hiểu thêm ></a>
+      </div>
+    </div>
+    <hr class="mx-2 mt-4" />
+  </div>
+</div>

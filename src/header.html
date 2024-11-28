@@ -1,0 +1,1292 @@
+<!-- header -->
+<header
+  class="d-none d-lg-block px-5 py-2 justify-content-between fixed-top bg-white"
+>
+  <div class="container-fluid position-relative">
+    <a class="me-3" href="#">Media & Industry</a>
+    <a href="#">Meetings & Events</a>
+
+    <div class="d-flex position-absolute top-0 end-0">
+      <a
+        class="header-link-icon me-3"
+        title="Facebook"
+        href="https://www.facebook.com/camnhannhatban"
+        ><i class="fa-brands fa-facebook-f fa-2xs"></i
+      ></a>
+
+      <a
+        class="header-link-icon me-3"
+        title="Instagram"
+        href="https://www.instagram.com/visitjapan_vn/"
+        ><i class="fa-brands fa-instagram fa-2xs"></i
+      ></a>
+
+      <a
+        class="header-link-icon me-3"
+        title="Youtube"
+        href="https://www.youtube.com/user/visitjapan/featured"
+        ><i class="fa-brands fa-youtube fa-2xs"></i
+      ></a>
+
+      <a title="Yêu thích" class="me-2" href="#!favorite"
+        ><i class="fa-regular fa-heart fa-xl"></i
+      ></a>
+
+      <select class="form-select" title="Chọn ngôn ngữ">
+        <option selected>Chọn ngôn ngữ</option>
+        <option value="vi">Tiếng Việt</option>
+
+        <option value="en">Tiếng Anh</option>
+        <option value="jp">Tiếng Nhật</option>
+      </select>
+    </div>
+  </div>
+</header>
+
+<!-- menu -->
+<nav class="navbar navbar-expand-lg fixed-top bg-white nav-menu">
+  <div class="container-fluid">
+    <!-- button để show -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarContent"
+      aria-controls="navbarContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fa-solid fa-bars fa-lg"></i>
+    </button>
+    <!-- menu brand -->
+    <a class="navbar-brand" href="./index.html"
+      ><img
+        class="img-fluid"
+        src="./assets/images/img_logo_japan-endless-discovery.png"
+        alt="Japan Endless Discovery"
+    /></a>
+    <!-- thanh yêu tích và search -->
+    <div class="nav-toggler d-flex">
+      <a
+        href="#!favorite"
+        type="button"
+        aria-label="Toggle navigation"
+        class="navbar-toggler"
+      >
+        <i class="fa-regular fa-heart fa-xl"></i></a
+      ><button
+        type="button"
+        aria-label="Toggle navigation"
+        class="navbar-toggler"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarSearch"
+        aria-controls="navbarSearch"
+      >
+        <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+      </button>
+    </div>
+
+    <!-- Các option trong menu -->
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <ul class="navbar-nav mx-auto mb-2 mb-lg-0 fw-bolder">
+        <!-- nav - Điểm Đến -->
+        <li class="nav-item dropdown">
+          <a
+            href="#!destinations"
+            class="nav-link px-3 dropdown-toggle"
+            role="button"
+            aria-expanded="false"
+            >Điểm đến</a
+          >
+          <!-- nav phụ - điểm đến -->
+          <div class="dropdown-menu">
+            <nav class="navbar nav-expand-lg">
+              <div class="container-fluid">
+                <div class="navbar-collapse">
+                  <ul class="navbar-nav mx-auto mb-2 mb-lg-0 sub-nav">
+                    <!-- sub-nav - tất cả các điểm đến -->
+                    <li class="nav-item dropdown">
+                      <a
+                        href="#"
+                        class="nav-link px-3 fs-6 dropdown-toggle"
+                        role="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                        >Tất cả các điểm đến</a
+                      >
+                      <div class="dropdown-menu sub-nav-content">
+                        <div class="container-fluid">
+                          <div class="row">
+                            <!-- Hokkaido -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_hokkaido_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Hokkaido</a
+                              >
+                            </div>
+
+                            <!-- Tohoku -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_tohoku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Tohoku</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Aomori</a>
+                                <a href="#" class="dropdown-item">Akita</a
+                                ><a href="#" class="dropdown-item">Iwate</a
+                                ><a href="#" class="dropdown-item">Yamagata</a
+                                ><a href="#" class="dropdown-item">Miyagi</a
+                                ><a href="#" class="dropdown-item">Fukushima</a>
+                              </div>
+                            </div>
+
+                            <!-- Hokuriku Shinetsu -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_hokuriku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Hokuriku Shinetsu</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Niigata</a>
+                                <a href="#" class="dropdown-item">Toyama</a
+                                ><a href="#" class="dropdown-item">Ishikawa</a
+                                ><a href="#" class="dropdown-item">Fukui</a
+                                ><a href="#" class="dropdown-item">Nagano</a>
+                              </div>
+                            </div>
+
+                            <!-- Kanto -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_kanto_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Kanto</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Tokyo</a>
+                                <a href="#" class="dropdown-item">Kanagawa</a
+                                ><a href="#" class="dropdown-item">Chiba</a
+                                ><a href="#" class="dropdown-item">Saitama</a
+                                ><a href="#" class="dropdown-item">Ibaraki</a
+                                ><a href="#" class="dropdown-item">Tochigi</a
+                                ><a href="#" class="dropdown-item">Gunma</a>
+                              </div>
+                            </div>
+
+                            <!-- Tokai -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_tokai_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Tokai</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Yamanashi</a>
+                                <a href="#" class="dropdown-item">Shizuoka</a
+                                ><a href="#" class="dropdown-item">Gifu</a
+                                ><a href="#" class="dropdown-item">Aichi</a
+                                ><a href="#" class="dropdown-item">Mie</a>
+                              </div>
+                            </div>
+
+                            <!-- Kansai -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_kansai_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Kansai</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Kyoto</a>
+                                <a href="#" class="dropdown-item">Osaka</a
+                                ><a href="#" class="dropdown-item">Shiga</a
+                                ><a href="#" class="dropdown-item">Hyogo</a
+                                ><a href="#" class="dropdown-item">Nara</a>
+                                <a href="#" class="dropdown-item">Wakayama</a>
+                              </div>
+                            </div>
+
+                            <!-- Chugoku -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_chugoku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Chugoku</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Tottori</a>
+                                <a href="#" class="dropdown-item">Shimane</a
+                                ><a href="#" class="dropdown-item">Okayama</a
+                                ><a href="#" class="dropdown-item">Hiroshima</a
+                                ><a href="#" class="dropdown-item">Yamaguchi</a>
+                              </div>
+                            </div>
+
+                            <!-- Shikoku -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_shikoku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Shikoku</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Tokushima</a>
+                                <a href="#" class="dropdown-item">Kagawa</a
+                                ><a href="#" class="dropdown-item">Ehime</a
+                                ><a href="#" class="dropdown-item">Kochi</a>
+                              </div>
+                            </div>
+
+                            <!-- Kyushu -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_kyushu_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Kyushu</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Fukuoka</a>
+                                <a href="#" class="dropdown-item">Saga</a
+                                ><a href="#" class="dropdown-item">Nagasaki</a
+                                ><a href="#" class="dropdown-item">Oita</a
+                                ><a href="#" class="dropdown-item">Kumamoto</a>
+                                <a href="#" class="dropdown-item">Miyazaki</a
+                                ><a href="#" class="dropdown-item">Kagoshima</a>
+                              </div>
+                            </div>
+
+                            <!-- Okinawa -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_okinawa_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Okinawa</a
+                              >
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                    <!-- sub-nav - các thành phố chính -->
+                    <li class="nav-item dropdown">
+                      <a
+                        href="#"
+                        class="nav-link px-3 fs-6 dropdown-toggle"
+                        role="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                        >Các thành phố chính</a
+                      >
+                      <div class="dropdown-menu sub-nav-content">
+                        <div class="container-fluid">
+                          <div class="row">
+                            <!-- Hokkaido -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_hokkaido_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Hokkaido</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Sapporp & Khu vực xung quanh</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Asahikawa & Phía Bắc Hokkaido</a
+                                ><a href="#" class="dropdown-item"
+                                  >Hakodate & Phía Nam Hokkaido</a
+                                ><a href="#" class="dropdown-item"
+                                  >Kushiro & Phía Đông Hokkaido</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Tohoku -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_tohoku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Tohoku</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Sendai</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Aomori & Khu vực xung quanh</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Akita</a
+                                ><a href="#" class="dropdown-item">Morioka</a
+                                ><a href="#" class="dropdown-item"
+                                  >Tsuruoka & Sakata</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Fukushima</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Hokuriku Shinetsu -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_hokuriku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Hokuriku Shinetsu</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Kanazawa</a>
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Niigata</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Toyama</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Nagamo & Khu vực xung quanh</a
+                                ><a href="#" class="dropdown-item">Matsumoto</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Fukui</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Kanto -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_kanto_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Kanto</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Tokyo</a>
+                                <a href="#" class="dropdown-item">Yokohama</a
+                                ><a href="#" class="dropdown-item"
+                                  >Trung tâm đô thị mới Saitama</a
+                                ><a href="#" class="dropdown-item">Chiba</a
+                                ><a href="#" class="dropdown-item">Utsunomiya</a
+                                ><a href="#" class="dropdown-item"
+                                  >Maebashi & Akagi</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Tokai -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_tokai_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Tokai</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Trung tâm Nagoya</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Núi Phú Sĩ (Yamanashi)</a
+                                ><a href="#" class="dropdown-item">Hamamatsu</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Gifu & Khu vực xung quanh</a
+                                ><a href="#" class="dropdown-item"
+                                  >Hida Takayama</a
+                                >
+                                <a href="#" class="dropdown-item">Ise</a>
+                              </div>
+                            </div>
+
+                            <!-- Kansai -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_kansai_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Kansai</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Khu vực vịnh Osaka</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Xunh quanh Ga Kyoto</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Nara</a
+                                ><a href="#" class="dropdown-item">Kobe</a
+                                ><a href="#" class="dropdown-item">Himeji</a>
+                                <a href="#" class="dropdown-item">Otsu</a>
+                              </div>
+                            </div>
+
+                            <!-- Chugoku -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_chugoku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Chugoku</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Hiroshima</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Okayama</a
+                                ><a href="#" class="dropdown-item">Kurashiki</a
+                                ><a href="#" class="dropdown-item">Matsue</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Tottori & Khu vực xung quanh</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Shimonoseki</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Shikoku -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_shikoku_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Shikoku</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Matsuyama</a>
+                                <a href="#" class="dropdown-item">Takamatsu</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Tokushima</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Kochi</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Kyushu -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_kyushu_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Kyushu</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Fukuoka</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Kumamoto</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Kagoshima Beppu & Yufuin</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Nagasaki</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Miyazaki
+                                </a>
+                              </div>
+                            </div>
+
+                            <!-- Okinawa -->
+                            <div class="col-lg-2 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto"
+                                src="./assets/images/map/map_okinawa_jp.jpg"
+                                width="100"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Okinawa</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Naha</a>
+                                <a href="#" class="dropdown-item"
+                                  >Đảo Ishigaki</a
+                                ><a href="#" class="dropdown-item">Đảo Miyako</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Nagasaki</a
+                                ><a href="#" class="dropdown-item"
+                                  >Quần đảo Kerama
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                    <!-- sub-nav - Du lịch theo chủ đề -->
+                    <li class="nav-item dropdown">
+                      <a
+                        href="#"
+                        class="nav-link px-3 fs-6 dropdown-toggle"
+                        role="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                        >Du lịch theo chủ đề</a
+                      >
+                      <div class="dropdown-menu sub-nav-content">
+                        <div class="container-fluid">
+                          <div class="row">
+                            <!-- Thiên nhiên -->
+                            <div class="col-lg-3 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/nature.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Thiên nhiên</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Hướng dẫn về núi Phú Sĩ</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Quần đảo Tokyo</a
+                                ><a href="#" class="dropdown-item"
+                                  >Zao & Khu vực xung quanh Yakushima</a
+                                ><a href="#" class="dropdown-item"
+                                  >Dãy núi Alps Nhật Bản</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Hồ Towada & Khu vực xung quanh</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Ngoài trời -->
+                            <div class="col-lg-3 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/outdoor.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Ngoài trời</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Khu nghỉ dưỡi Trượt tuyết Niseko & Khu vực
+                                  xung quanh</a
+                                >
+                                <a href="#" class="dropdown-item">Minakami</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Nagano & Khu vực xung quanh</a
+                                ><a href="#" class="dropdown-item"
+                                  >Địa điểm Lướt sóng ở Miyazaki</a
+                                >
+                                <a href="#" class="dropdown-item">Đảo Miyako</a
+                                ><a href="#" class="dropdown-item"
+                                  >Đảo Ishigaki</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Truyền thống -->
+                            <div class="col-lg-3 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/tradition.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Truyền thống</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Trung tâm Kyoto</a
+                                >
+                                <a href="#" class="dropdown-item">Hongu</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thung lũng Kiso</a
+                                ><a href="#" class="dropdown-item"
+                                  >Koka & Shigaraki</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Công viên Nara</a
+                                ><a href="#" class="dropdown-item"
+                                  >Hida Takayama</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Ẩm thực -->
+                            <div class="col-lg-3 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/cuisine.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Ẩm thực</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Fukuoka</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Dontobori & Shinsaibashi</a
+                                ><a href="#" class="dropdown-item"
+                                  >Sapporo & Khu vực xung quanh</a
+                                ><a href="#" class="dropdown-item"
+                                  >Ginza & Nihonbashi</a
+                                >
+                                <a href="#" class="dropdown-item">Ise</a
+                                ><a href="#" class="dropdown-item">Kanazawa</a>
+                              </div>
+                            </div>
+
+                            <!-- Nghệ thuật -->
+                            <div class="col-lg-3 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/art.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Nghệ thuật</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Kanazawa</a>
+                                <a href="#" class="dropdown-item"
+                                  >Đảo Setouchi</a
+                                ><a href="#" class="dropdown-item"
+                                  >Kiyosato & Hokuto</a
+                                ><a href="#" class="dropdown-item">Hakone</a>
+                                <a href="#" class="dropdown-item">Ise</a
+                                ><a href="#" class="dropdown-item"
+                                  >Roppogi & Akasaka</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Thư giãn -->
+                            <div class="col-lg-3 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/relaxation.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Thư giãn</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Beppu & Yufui (Osen)</a
+                                >
+                                <a href="#" class="dropdown-item">Đảo Miyako</a
+                                ><a href="#" class="dropdown-item">Suwa</a
+                                ><a href="#" class="dropdown-item"
+                                  >Suối nước nóng Ginzan</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Quần đảo Nagasaki</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Các thành phố -->
+                            <div class="col-lg-3 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/cities.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Các thành phố</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Yokohama</a>
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Sendai</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Osaka & Khu vực xung quanh</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Hiroshima</a
+                                >
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                    <!-- sub-nav - Phong cách kỳ nghỉ -->
+                    <li class="nav-item dropdown">
+                      <a
+                        href="#"
+                        class="nav-link px-3 fs-6 dropdown-toggle"
+                        role="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                        >Phong cách kỳ nghỉ</a
+                      >
+                      <div class="dropdown-menu sub-nav-content">
+                        <div class="container-fluid">
+                          <div class="row">
+                            <!-- Khám phá những điều mới lạ hoặc du lịch từ tốn -->
+                            <div class="col-lg-4 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/khampha.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Khám phá những điều mới lạ hoặc du lịch từ
+                                tốn</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Kumano Kodo</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Thành phố Fukui</a
+                                ><a href="#" class="dropdown-item">Shimane</a
+                                ><a href="#" class="dropdown-item"
+                                  >Tsuruoka & Sakata</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Cao nguyên đá vôi Shikoku</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Cuộc phưu lưu trên đảo -->
+                            <div class="col-lg-4 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/phulutrendao.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Cuộc phưu lưu trên đảo</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Quần đảo</a>
+                                <a href="#" class="dropdown-item"
+                                  >Quần đảo Amami</a
+                                ><a href="#" class="dropdown-item"
+                                  >Quẩn đảo Nagasaki</a
+                                ><a href="#" class="dropdown-item">Đảo Sado</a>
+                              </div>
+                            </div>
+
+                            <!-- Nghỉ dưỡng suối nước nóng -->
+                            <div class="col-lg-4 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/relaxation.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Nghỉ dưỡng suối nước nóng</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item"
+                                  >Suối nước nóng Beppu</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Suối nước nóng Hakone Yumoto</a
+                                ><a href="#" class="dropdown-item"
+                                  >Suối nước nóng Kusatsu</a
+                                ><a href="#" class="dropdown-item"
+                                  >Suối nước nóng Kinosaki</a
+                                >
+                                <a href="#" class="dropdown-item"
+                                  >Suối nước nóng Hachimantai</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Du lịch văn hóa -->
+                            <div class="col-lg-4 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/Osaka798_4.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Du lịch văn hóa</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Kyoto</a>
+                                <a href="#" class="dropdown-item">Nikko</a
+                                ><a href="#" class="dropdown-item">Nara</a
+                                ><a href="#" class="dropdown-item">Kanazawa</a>
+                                <a href="#" class="dropdown-item">Omihachiman</a
+                                ><a href="#" class="dropdown-item"
+                                  >Aizuwakamatsu & Oze</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Công viên quốc gia -->
+                            <div class="col-lg-4 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/cities.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Công viên quốc gia</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Shiretoko</a>
+                                <a href="#" class="dropdown-item"
+                                  >Hachimantai & Khu vực xung quanh</a
+                                ><a href="#" class="dropdown-item"
+                                  >Quần đảo Kerama</a
+                                ><a href="#" class="dropdown-item"
+                                  >Shirakami & Odate</a
+                                >
+                              </div>
+                            </div>
+
+                            <!-- Kỳ nghỉ tại một thành phố -->
+                            <div class="col-lg-4 dropdown sub-nav-center">
+                              <img
+                                class="img-fluid d-none d-lg-block mx-auto rounded"
+                                src="./assets/images/Tokyo.jpg"
+                                width="200"
+                                alt=""
+                              />
+                              <a
+                                href="#"
+                                class="nav-link sub-nav-link"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                                >Kỳ nghỉ tại một thành phố</a
+                              >
+                              <div
+                                class="dropdown-menu position-relative min-w-max-content"
+                              >
+                                <a href="#" class="dropdown-item">Tokyo</a>
+                                <a href="#" class="dropdown-item">Osaka</a
+                                ><a href="#" class="dropdown-item"
+                                  >Thành phố Fukuoka</a
+                                ><a href="#" class="dropdown-item"
+                                  >Sapporo & Khu vực xung quanh</a
+                                >
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </li>
+
+        <!-- nav - Trải nghiệm -->
+        <li class="nav-item dropdown">
+          <a
+            href="#!thingsToDo"
+            class="nav-link px-3 dropdown-toggle"
+            role="button"
+            aria-expanded="false"
+            >Trải nghiệm</a
+          >
+        </li>
+
+        <!-- nav - Lên kế hoạch -->
+        <li class="nav-item">
+          <a
+            href="#!plan"
+            class="nav-link px-3 dropdown-toggle"
+            role="button"
+            aria-expanded="false"
+            >Lên kế hoạch</a
+          >
+        </li>
+
+        <!-- nav - Tin tức -->
+        <li class="nav-item">
+          <a
+            href="#!newsTopics"
+            class="nav-link px-3 dropdown-toggle"
+            role="button"
+            aria-expanded="false"
+            >Tin tức</a
+          >
+        </li>
+
+        <!-- nav - Blog -->
+        <li class="nav-item">
+          <a
+            href="#!blog"
+            class="nav-link px-3 dropdown-toggle"
+            role="button"
+            aria-expanded="false"
+            >Blog</a
+          >
+        </li>
+
+        <!-- nav - Login -->
+        <li class="nav-item" ng-controller="myCtrl">
+          <a
+            href="#!login"
+            class="nav-link px-3 dropdown-toggle"
+            role="button"
+            aria-expanded="false"
+            ng-if="!loginStatus.login"
+            >Đăng nhập</a
+          >
+          <a
+            href="#!user/{{user.id}}"
+            class="nav-link px-3 dropdown-toggle"
+            role="button"
+            aria-expanded="false"
+            ng-if="loginStatus.login"
+            >{{user.username}}</a
+          >
+        </li>
+        <li><br class="divider" /></li>
+        <!-- liên kết mạng xh khi thu nhỏ menu -->
+        <li class="nav-item d-lg-none d-flex">
+          <a
+            class="nav-link px-3"
+            title="Facebook"
+            href="https://www.facebook.com/camnhannhatban"
+            ><i class="fa-brands fa-facebook-f fa-sm nav-item-icon"></i
+          ></a>
+          <a
+            class="nav-link px-3"
+            title="Instagram"
+            href="https://www.instagram.com/visitjapan_vn/"
+            ><i class="fa-brands fa-instagram fa-sm nav-item-icon"></i
+          ></a>
+          <a
+            class="nav-link px-3"
+            title="Youtube"
+            href="https://www.youtube.com/user/visitjapan/featured"
+            ><i class="fa-brands fa-youtube fa-sm nav-item-icon"></i
+          ></a>
+          <a href="#" class="nav-link px-3 end-0" title="Chọn ngôn ngữ"
+            ><i class="fa-solid fa-globe fa-xl"></i
+          ></a>
+        </li>
+      </ul>
+    </div>
+    <!-- nav search bar -->
+    <div class="collapse navbar-collapse flex-grow-0" id="navbarSearch">
+      <form class="" role="search">
+        <div class="position-relative me-2">
+          <input
+            class="form-control"
+            type=""
+            placeholder="Tìm Kiếm"
+            aria-label="Search"
+          />
+          <i class="fa-solid fa-magnifying-glass s-icon"></i>
+        </div>
+      </form>
+    </div>
+  </div>
+</nav>

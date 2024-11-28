@@ -1,0 +1,20 @@
+<!-- nội dung -->
+<h1 class="px-5 py-5 first">Tin tức & Chủ đề</h1>
+
+<div class="container-fluid">
+  <div class="row justify-content-center align-items-center blog-page">
+    <div
+      class="col-md-10 d-flex mx-5 mb-3 mb-md-4"
+      ng-repeat="new in news"
+      data-id="{{new.id}}"
+    >
+      <a
+        href="#"
+        class="d-flex flex-column text-black text-decoration-none w-100"
+      >
+        <h3 class="px-5 py-3 blog-title">{{new.title}}</h3>
+        <p class="px-5 py-3 m-0 blog-date">{{new.date}}</p>
+      </a>
+    </div>
+  </div>
+</div>
